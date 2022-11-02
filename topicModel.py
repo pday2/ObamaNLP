@@ -1,8 +1,10 @@
+#python -m spacy download en_core_web_lg
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import spacy
-import en_core_web_lg
+import en_core_web_md
 import csv
 import regex as re
 import os
@@ -32,9 +34,9 @@ for file in list_of_files:
       speech = ''.join(speechList)
     speeches.append(speech)
     
-    
+# sm - 12MB, md - 33MB, lg - 400MB
 #Load SpaCy English Model
-nlp = en_core_web_lg.load()
+nlp = en_core_web_md.load()
 
 #Tags to remove
 extags = ['PRON','CCONJ','PUNCT','PART','DET','ADP','NUM','SYM','SPACE']
@@ -44,3 +46,6 @@ tokens=[]
 for speech in nlp.pipe(speeches):
     scr_tok = [token.lemma_.lower() for token in speech if token.pos_ not in extags and not token.is_stop and token.is_alpha]
     tokens.append(scr_tok)
+
+dictionary = Dictionary(tokens)
+corpus = [dictionary.doc2bow(speech) for speech in speeches]
