@@ -1,0 +1,17 @@
+The stock market plunged Thursday in a harrowing five-minute selloff that appeared to be triggered by a breakdown of trading systems. After dropping nearly 1,000 points, the market rebounded but still closed down 3.2%, leaving Wall Street struggling to figure out what happened.
+
+Investors already were jittery about the ripple effects of the crisis in Greece when the market went into free fall at 2:42 p.m. By 2:47, the Dow Jones Industrial Average had crossed 10000 in the biggest intraday point drop in its history. By 3:07, the market had regained 500 points, ultimately staggering to a close at 10520.32, down 347.80 points.
+
+The Securities and Exchange Commission and the Commodity Futures Trading Commission said they were working with other regulators to review "unusual trading activity." The major U.S. stock exchanges said they were looking for trading glitches and examining potentially erroneous trades in multiple stocks. Major exchanges said they will cancel erroneous trades that occurred during the selloff.
+
+Multiple stocks, ranging from Accenture PLC to Boston Beer Co., momentarily lost nearly 100% of their value, changing hands for just one penny. Exchange-traded funds, which are index funds that trade like stocks on exchanges, were also temporarily vaporized. The $9.5 billion iShares Russell 1000 Value Index Fund went from $59 to around 8 cents in the blink of an eye.
+
+"It happened so quickly, it was like a torpedo," said Scott Redler, chief strategic officer at T3 Capital Management, a hedge fund. "It was mayhem."
+
+Unnerved traders frantically searched for an explanation, scouring the trade blotters for clues to the cause. Many pinned the blame on an erroneous trade for a basket of stocks which caused shares for companies such as Procter & Gamble Co., one of the market's most stable blue-chip stocks, to fall 35% in two minutes.
+
+The market was already down some 500 points when the selloff began. Televisions showed images of standoffs between Greek police and protesters, and the European Central Bank declined to step up its effort to stabilize government debt markets.
+
+Traders immediately said a market glitch must have contributed to the decline. They theorized that high-frequency trading firms, which use computer programs to trade and account for about two-thirds of the market's overall volume, might have contributed to the speed of the decline, although they offered no specifics.
+
+Several high-frequency firms, including Tradebot Systems Inc., which says it often accounts for 5% of the U.S. market's volume, stopped trading when the market grew volatile. With these traders on the sidelines, there were fewer potential buyers, which may have contributed to the plunge.
