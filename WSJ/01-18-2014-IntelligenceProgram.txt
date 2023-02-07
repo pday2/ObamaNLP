@@ -1,0 +1,61 @@
+President Barack Obama's plan to curtail the government's mass collection of American phone data shakes up U.S. spying practices amid a world-wide firestorm over revelations about the nation's surveillance programs.
+
+But Mr. Obama, promising a continued review, left large swaths of the surveillance programs unchanged, and many of his proposals for overhauling them still face congressional debate and approval.
+
+The president's plan, which drew mixed reactions from both sides of the surveillance debate after he announced them in a speech Friday, sets the stage for possible conflicts with intelligence officials and their allies in Congress.
+
+In one of the biggest changes, he said the government would stop storing huge amounts of telephone data in NSA computers, but he hasn't determined where the databases will be located, such as at phone companies. Instead, he asked the attorney general and intelligence officials to work with Congress to come up with alternative locations within 60 days. That could prove difficult.
+
+Other changes will take effect immediately. Intelligence officials now must seek approval from a secret national-security court before conducting searches of a person's phone data, Mr. Obama said. In addition, data searches have been scaled back, so that investigators may only examine personal connections that are two steps removed from a target, instead of three.
+
+Mr. Obama also adopted new privacy protections for non-U.S. citizens and ended government spying on heads of state of close American allies, though monitoring leaders' staff members wasn't prohibited.
+
+Mr. Obama never mentioned two issues that have upset U.S. technology executives, who worry about losing business overseas -- reports of secret government taps on overseas data centers and the weakening of encryption standards.
+
+The president said he recognized many surveillance issues weren't settled, and cast the changes as an attempt to balance national security with privacy and civil-liberties concerns.
+
+"The reforms I'm proposing today should give the American people greater confidence that their rights are being protected, even as our intelligence and law-enforcement agencies maintain the tools they need to keep us safe," he said in the speech delivered at the Justice Department.
+
+As a whole, the overhauls of NSA practices both at home and overseas comprise the most significant revision of U.S. surveillance in more than a decade. They focus primarily on three types of spy operations: mass collection of phone records, mass collection of foreign communications and the monitoring of foreign leaders. The overhaul also includes changes to the court that oversees NSA surveillance.
+
+The government's bulk phone-data collection has come under the most intense debate, and senior administration officials say Mr. Obama was still wrestling the day before his speech with potential changes to the program. He didn't decide until Thursday night on some elements of his plan, including the requirement of court orders for records searches.
+
+Mr. Obama's speech marked an inflection point in a debate over surveillance programs that began after their creation by the Bush administration in the wake of the Sept. 11, 2001, attacks. It was reignited last spring by a series of highly sensitive leaks by former government contractor Edward Snowden, who is now a fugitive in Moscow.
+
+Mr. Obama's plan satisfied some of the most vocal critics of NSA surveillance on Capitol Hill.
+
+In a joint statement, Sens. Ron Wyden (D., Ore.), Mark Udall (D., Colo.), and Martin Heinrich (D., N.M.), members of the Senate intelligence committee who have pushed for privacy protections, called Mr. Obama's decision to move bulk data storage out of the NSA "a major milestone."
+
+But unanswered questions about how the directives will be implemented -- in particular, where phone data will be housed outside the government -- have left some uneasy.
+
+"The major disappointment is the president does not commit to ending government collection and retention of Americans' bulk data," said Anthony Romero, executive director of the American Civil Liberties Union. "Bulk-data collection and retention is the quintessential unreasonable search and seizure under the Fourth Amendment."
+
+Some Republicans were uneasy for the opposite reason, suggesting the new restrictions could hamper security programs. "When lives are stake, the president must not allow politics to cloud his judgment," said House Speaker John Boehner (R., Ohio). "I look forward to learning more about how the new procedure for accessing data will not put Americans at greater risk."
+
+Some new rules are unsettling for the intelligence community. Requiring a judge's order for data searches, for instance, appeals to many privacy advocates. But some intelligence leaders have said the change is needless, cumbersome and will slow inquiries.
+
+The leaders of the Senate and House intelligence committees, Sen. Dianne Feinstein (D., Calif.) and Rep. Mike Rogers (R., Mich.), questioned that change.
+
+"If instituted, that approval process must be made faster in the future than it was in the past -- when it took up to nine days to gain court approval for a single search," they said in a joint statement.
+
+Mr. Obama said that while new rules are being developed, searches could be made without court orders "in the case of a true emergency."
+
+Mr. Obama tried to balance the interests of those on both sides of the debate. He defended U.S. intelligence practices in his speech, saying they have helped foil terrorist plots. But he also conceded the way they are structured opens up the potential for abuse.
+
+"The power of new technologies means that there are fewer and fewer technical constraints on what we can do," Mr. Obama said. "That places a special obligation on us to ask tough questions about what we should do."
+
+Mr. Obama didn't adopt one recommendation for greater court oversight from a review panel, which urged that the Federal Bureau of Investigation be required to obtain court approval before issuing so-called national-security letters demanding information from businesses and organizations. Instead, Mr. Obama asked the attorney general to make the process more transparent and allow recipients of such letters to make more information public. Currently, companies cannot ever acknowledge they have received a letter.
+
+As part of his overhaul, Mr. Obama established a new process to evaluate surveillance operations yearly, weighing costs and benefits of monitoring a particular individual. He also ordered a continuing review of classified opinions of the secret Foreign Intelligence Surveillance Court to determine if future opinions can be made public.
+
+The Office of Director of National Intelligence late Friday declassified and released two dozen previously secret court orders that chronicle renewals of the phone-data program.
+
+Mr. Obama spelled out new privacy protections for non-U.S. citizens, specifying that surveillance will only be done for national-security purposes. He also shortened the amount of time the NSA can retain communications data on non-U.S. citizens.
+
+"The bottom line is that people around the world -- regardless of their nationality -- should know that the United States is not spying on ordinary people who don't threaten our national security, and that we take their privacy concerns into account," Mr. Obama said. "This applies to foreign leaders as well."
+
+Officials of foreign governments greeted Mr. Obama's address with a mix of skepticism and measured support, suggesting Washington still has a way to go to quell the chorus of outrage that followed revelations last year of NSA spying on non-U.S. citizens and foreign leaders.
+
+Mexican Foreign Minister Jose Antonio Meade noted in an interview on Mexican radio a positive reaction from Europe and elsewhere. "We have to . . . be certain that it will give us the security we need to continue working on the basis of confidence on shared problems," he said.
+
+Last year, Mexico demanded an investigation by the U.S. government into reports that the NSA spied on text messages of President Enrique Pena Nieto when he was still a candidate.
