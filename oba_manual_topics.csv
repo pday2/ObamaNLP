@@ -1,0 +1,116 @@
+date,filepath,source,manual_topic
+28-07-04,./speeches/2004-07-28-DNCSpeech.txt,oba,multi
+04-06-08,./speeches/2008-06-04-ObamaNomination.txt,oba,multi
+05-11-08,./speeches/2008-11-05-ObamaElected.txt,oba,multi
+05-01-09,./speeches/2009-01-05-EconomyPlans.txt,oba,economy
+20-01-09,./speeches/2009-01-20-Inauguration.txt,oba,multi
+02-04-09,./speeches/2009-04-02-G20Speech.txt,oba,economy
+15-04-09,./speeches/2009-04-15-ANewFoundation.txt,oba,economy
+22-05-09,./speeches/2009-05-22-NationalSecurity.txt,oba,national security
+15-06-09,./speeches/2009-06-15-IranProtests.txt,oba,democracy
+15-07-09,./speeches/2009-07-15-AmericanGraduationInitiative.txt,oba,education
+24-09-09,./speeches/2009-09-24-UNSpeech.txt,oba,international relations
+09-10-09,./speeches/2009-10-09-NobelPeacePrize.txt,oba,international relations
+05-11-09,./speeches/2009-11-05-FortHoodShooting.txt,oba,shooting
+19-12-09,./speeches/2009-12-19-CopenhagenClimateConf.txt,oba,climate
+25-12-09,./speeches/2009-12-25-UnderwearBomber.txt,oba,terrorism
+12-01-10,./speeches/2010-01-12-HaitiEarthquake.txt,oba,natural disaster
+04-03-10,./speeches/2010-03-04-CallForHealthCareVote.txt,oba,health care
+24-03-10,./speeches/2010-03-24-AffordableCareAct.txt,oba,health care
+15-04-10,./speeches/2010-04-15-NASAFuture.txt,oba,science
+22-04-10,./speeches/2010-04-22-DeepwaterHorizon.txt,oba,natural disaster
+07-05-10,./speeches/2010-05-07-StockSelloff.txt,oba,economy
+15-07-10,./speeches/2010-07-15-DeepwaterCapped.txt,oba,natural disaster
+21-07-10,./speeches/2010-07-21-DoddFrank.txt,oba,economy
+26-07-10,./speeches/2010-07-26-Wikileaks.txt,oba,national security
+31-08-10,./speeches/2010-08-31-EndIraqWar.txt,oba,international relations
+02-11-10,./speeches/2010-11-02-MidtermElections.txt,oba,multi
+08-01-11,./speeches/2011-01-08-TucsonShooting.txt,oba,shooting
+26-01-11,./speeches/2011-01-26-StateOfTheUnion.txt,oba,multi
+31-01-11,./speeches/2011-01-31-EgyptProtests.txt,oba,democracy
+19-02-11,./speeches/2011-02-19-IntelCorp.txt,oba,education
+02-05-11,./speeches/2011-05-02-binLadenKilled.txt,oba,national security
+23-05-11,./speeches/2011-05-23-MissouriTornado.txt,oba,natural disaster
+23-06-11,./speeches/2011-06-23-AfghanistanPullout.txt,oba,international relations
+26-07-11,./speeches/2011-07-26-DebtCeiling.txt,oba,economy
+09-09-11,./speeches/2011-09-09-SpeechJobsAct.txt,oba,economy
+17-10-11,./speeches/2011-10-17-MLKDedication.txt,oba,civil rights
+17-11-11,./speeches/2011-11-17-AustraliaSpeech.txt,oba,international relations
+16-12-11,./speeches/2011-12-16-EndIraqWar.txt,oba,national security
+06-01-12,./speeches/2012-01-06-MilitaryPolicy.txt,oba,national security
+25-01-12,./speeches/2012-01-25-StateOfTheUnion.txt,oba,multi
+27-03-12,./speeches/2012-03-27-HankukUniversity.txt,oba,international relations
+31-03-12,./speeches/2012-03-31-OilIran.txt,oba,economy
+29-04-12,./speeches/2012-04-29-WHCorrespondentsDinner.txt,oba,multi
+02-05-12,./speeches/2012-05-02-VisitsAfghanistan.txt,oba,national security
+10-05-12,./speeches/2012-05-10-SameSexMarriage.txt,oba,civil rights
+29-06-12,./speeches/2012-06-29-SupremeCourtHealthCare.txt,oba,health care
+21-07-12,./speeches/2012-07-21-AuroraShooting.txt,oba,shooting
+07-09-12,./speeches/2012-09-07-SecondNomination.txt,oba,multi
+29-10-12,./speeches/2012-10-29-HurricaneSandy.txt,oba,natural disaster
+07-11-12,./speeches/2012-11-07-ObamaWinsRe-election.txt,oba,multi
+15-12-12,./speeches/2012-12-15-SandyHook.txt,oba,shooting
+16-01-13,./speeches/2013-01-16-GunControl.txt,oba,shooting
+22-01-13,./speeches/2013-01-22-InauguralAddress.txt,oba,multi
+30-01-13,./speeches/2013-01-30-ImmigrationLaws.txt,oba,immigration
+13-02-13,./speeches/2013-02-13-StateOfTheUnion.txt,oba,multi
+16-04-13,./speeches/2013-04-16-BostonMarathon.txt,oba,terrorism
+26-04-13,./speeches/2013-04-26-BushLibrary.txt,oba,multi
+04-05-13,./speeches/2013-05-04-MexicoAddress.txt,oba,international relations
+19-06-13,./speeches/2013-06-19-BerlinSpeech.txt,oba,international relations
+14-07-13,./speeches/2013-07-14-ZimmermanAcquitted.txt,oba,civil rights
+29-08-13,./speeches/2013-08-29-LetFreedomRing.txt,oba,civil rights
+11-09-13,./speeches/2013-09-11-SyriaPolicy.txt,oba,national security
+02-10-13,./speeches/2013-10-02-GovernmentShutdown.txt,oba,economy
+06-12-13,./speeches/2013-12-06-NelsonMandelaObit.txt,oba,civil rights
+18-01-14,./speeches/2014-01-18-IntelligenceProgram.txt,oba,national security
+29-01-14,./speeches/2014-01-29-StateoftheUnion.txt,oba,multi
+07-03-14,./speeches/2014-03-07-RussiaUkraine.txt,oba,international relations
+26-03-14,./speeches/2014-03-26-NATOBelgium.txt,oba,international relations
+11-04-14,./speeches/2014-04-11-CivilRights.txt,oba,civil rights
+21-05-14,./speeches/2014-05-21-VeteransAffairs.txt,oba,national security
+01-07-14,./speeches/2014-07-01-Immigration.txt,oba,immigration
+08-08-14,./speeches/2014-08-08-IraqAirstrikes.txt,oba,national security
+12-08-14,./speeches/2014-08-12-FergusonMissouri.txt,oba,multi
+17-09-14,./speeches/2014-09-17-Ebola.txt,oba,natural disaster
+18-10-14,./speeches/2014-10-18-ConsumerFinancialProtection.txt,oba,economy
+05-11-14,./speeches/2014-11-05-MidtermElections.txt,oba,multi
+18-12-14,./speeches/2014-12-18-CubaRelations.txt,oba,international relations
+08-01-15,./speeches/2015-01-08-CharlieHebdo.txt,oba,terrorism
+21-01-15,./speeches/2015-01-21-StateoftheUnion.txt,oba,multi
+14-02-15,./speeches/2015-02-14-CybersecuritySummit.txt,oba,science
+11-03-15,./speeches/2015-03-11-FinancialAid.txt,oba,education
+03-04-15,./speeches/2015-04-03-IranNuclearAgreement.txt,oba,international relations
+09-05-15,./speeches/2015-05-09-PacificTrade.txt,oba,economy
+18-06-15,./speeches/2015-06-18-CharlestonShooting.txt,oba,shooting
+07-07-15,./speeches/2015-07-07-ISILPolicy.txt,oba,national security
+03-08-15,./speeches/2015-08-03-CleanPowerPlan.txt,oba,climate
+24-09-15,./speeches/2015-09-24-PopeFrancis.txt,oba,civil rights
+02-10-15,./speeches/2015-10-02-UmpquaShooting.txt,oba,shooting
+14-11-15,./speeches/2015-11-14-ParisTerrorsim.txt,oba,terrorism
+14-12-15,./speeches/2015-12-14-ParisAccords.txt,oba,climate
+13-01-16,./speeches/2016-01-13-StateoftheUnion.txt,oba,multi
+16-02-16,./speeches/2016-02-16-ScaliaDies.txt,oba,multi
+23-03-16,./speeches/2016-03-23-BrusselsTerrorism.txt,oba,terrorism
+25-04-16,./speeches/2016-04-25-HannoverTrade.txt,oba,international relations
+06-05-16,./speeches/2016-05-06-FlintWaterCrisis.txt,oba,multi
+13-06-16,./speeches/2016-06-13-OrlandoShooting.txt,oba,shooting
+28-07-16,./speeches/2016-07-28-DemocraticConvention.txt,oba,multi
+17-08-16,./speeches/2016-08-17-BatonRougeFloods.txt,oba,natural disaster
+05-09-16,./speeches/2016-09-05-G20Summit.txt,oba,economy
+09-11-16,./speeches/2016-11-09-PresidentialElection.txt,oba,multi
+11-01-17,./speeches/2017-01-11-FarewellAddress.txt,oba,multi
+,,,multi
+,,,economy
+,,,national security
+,,,democracy
+,,,education
+,,,international relations
+,,,shooting
+,,,climate
+,,,terrorism
+,,,natural disaster
+,,,health care
+,,,science
+,,,civil rights
+,,,immigration
