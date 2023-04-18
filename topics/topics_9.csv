@@ -1,0 +1,10 @@
+topic,topic_name
+"0.017*""energy"" + 0.014*""business"" + 0.013*""company"" + 0.013*""financial"" + 0.011*""economic"" + 0.011*""oil"" + 0.011*""plan"" + 0.010*""crisis"" + 0.009*""clean"" + 0.008*""industry""",energy
+"0.015*""peace"" + 0.013*""freedom"" + 0.013*""democracy"" + 0.012*""human"" + 0.010*""free"" + 0.009*""citizen"" + 0.007*""progress"" + 0.007*""africa"" + 0.007*""europe"" + 0.007*""dignity""",democracy
+"0.018*""student"" + 0.016*""school"" + 0.013*""education"" + 0.012*""business"" + 0.012*""trade"" + 0.009*""partner"" + 0.008*""region"" + 0.008*""progress"" + 0.008*""worker"" + 0.008*""space""",education
+"0.017*""veteran"" + 0.017*""intelligence"" + 0.016*""serve"" + 0.013*""national"" + 0.012*""military"" + 0.011*""protect"" + 0.010*""service"" + 0.009*""terrorist"" + 0.008*""attack"" + 0.008*""review""",veterans
+"0.019*""tax"" + 0.016*""pay"" + 0.015*""cut"" + 0.015*""business"" + 0.011*""worker"" + 0.011*""deficit"" + 0.010*""care"" + 0.010*""college"" + 0.009*""middle"" + 0.009*""health""",taxes
+"0.036*""iraq"" + 0.022*""terrorist"" + 0.019*""military"" + 0.014*""attack"" + 0.014*""afghanistan"" + 0.013*""troop"" + 0.012*""iraqi"" + 0.009*""ally"" + 0.009*""kill"" + 0.008*""threat""",economy
+"0.047*""nuclear"" + 0.043*""iran"" + 0.025*""israel"" + 0.023*""weapon"" + 0.019*""deal"" + 0.018*""international"" + 0.013*""sanction"" + 0.012*""program"" + 0.009*""agreement"" + 0.008*""official""",security
+"0.014*""love"" + 0.012*""god"" + 0.007*""faith"" + 0.007*""white"" + 0.007*""story"" + 0.007*""black"" + 0.006*""generation"" + 0.006*""feel"" + 0.006*""talk"" + 0.006*""understand""",civil rights
+"0.030*""health"" + 0.029*""care"" + 0.022*""insurance"" + 0.014*""gun"" + 0.014*""reform"" + 0.012*""vote"" + 0.011*""republicans"" + 0.010*""pass"" + 0.010*""immigration"" + 0.009*""senate""",health care
