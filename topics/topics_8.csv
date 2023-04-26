@@ -1,0 +1,9 @@
+topic,topic_name
+"0.017*""energy"" + 0.017*""business"" + 0.015*""company"" + 0.011*""oil"" + 0.011*""economic"" + 0.010*""financial"" + 0.009*""crisis"" + 0.009*""clean"" + 0.009*""industry"" + 0.008*""plan""",economy
+"0.016*""peace"" + 0.015*""freedom"" + 0.012*""democracy"" + 0.011*""free"" + 0.010*""human"" + 0.010*""citizen"" + 0.009*""europe"" + 0.008*""generation"" + 0.007*""century"" + 0.007*""common""",democracy
+"0.014*""progress"" + 0.012*""africa"" + 0.012*""partner"" + 0.012*""region"" + 0.010*""human"" + 0.010*""global"" + 0.010*""partnership"" + 0.009*""asia"" + 0.008*""democracy"" + 0.008*""trade""",intl relations
+"0.017*""gun"" + 0.016*""intelligence"" + 0.012*""protect"" + 0.012*""national"" + 0.010*""court"" + 0.009*""enforcement"" + 0.009*""attack"" + 0.008*""public"" + 0.008*""terrorist"" + 0.008*""review""",security
+"0.022*""health"" + 0.021*""care"" + 0.015*""tax"" + 0.015*""pay"" + 0.013*""insurance"" + 0.013*""business"" + 0.011*""reform"" + 0.010*""cut"" + 0.010*""college"" + 0.009*""education""",health care
+"0.031*""iraq"" + 0.023*""military"" + 0.020*""terrorist"" + 0.017*""afghanistan"" + 0.016*""troop"" + 0.012*""attack"" + 0.010*""iraqi"" + 0.010*""serve"" + 0.010*""qaeda"" + 0.009*""ally""",terrorism
+"0.042*""nuclear"" + 0.039*""iran"" + 0.023*""israel"" + 0.022*""weapon"" + 0.017*""international"" + 0.017*""deal"" + 0.012*""sanction"" + 0.011*""program"" + 0.010*""official"" + 0.010*""obama""",middle east
+"0.014*""love"" + 0.011*""god"" + 0.008*""school"" + 0.007*""white"" + 0.007*""story"" + 0.007*""talk"" + 0.006*""black"" + 0.006*""faith"" + 0.006*""feel"" + 0.006*""old""",civil rights
