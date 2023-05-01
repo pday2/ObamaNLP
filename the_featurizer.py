@@ -145,7 +145,7 @@ def main():
     #
     # remove numbers
     #speeches = [re.sub(r'\d', '', speech) for speech in speeches]
-    print("Length of text_df", len(text_df))
+    print("text_df.shape = ", text_df.shape)
     ############# POS TAGGING ###################  NEW TRY!!!!
     print('---------POS TAGGING---------')
 
@@ -166,41 +166,34 @@ def main():
             #dfd.iloc[[0, 2], dfd.columns.get_loc('A')]
             text_df.iloc[i, text_df.columns.get_loc(pos)] = list_of_pos.count(pos)/total_pos_count
             
-    print("Length of text_df", len(text_df))
+    print("text_df.shape = ", text_df.shape)
     #################### NRCLex EMOTIONS ########################
     print('---------NRCLex EMOTION TAGGING---------')
-
     text_df['emo'] = text_df.text.apply(NRCLex)
+    text_df['emo_list'] = {}
+
+    for i in range(len(text_df)):
+        anticip = text_df.emo[i].affect_frequencies.pop('anticip')
+    print(text_df.shape)
 
     # Get names of emotion attributes, locate and remove anticipation as it seems to alway be 0
-    emotions = {'fear': 0.077,
-                'anger': 0.019,
-                'anticip': 0.0,
-                'trust': 0.203,
-                'surprise': 0.019,
-                'positive': 0.330,
-                'negative': 0.106,
-                'sadness': 0.067,
-                'disgust': 0.019,
-                'joy': 0.087,
-                'anticipation': 0.067}
-    Attributes = list(emotions.keys())
-    antIndx = Attributes.index('anticip')
-
-    # Make a column for emo values for each source and each emotion
-    # use list() around the affect_frequencies.values() to get numbers in list form
-    # starting point: [list(emotion.affect_frequencies.values())[1] for emotion in df['emo_oba']]
-    indexes = [0,1,3,4,5,6,7,8,9,10] # skip 2 which is anticipation and seems to always be 0
-    for i, attr in enumerate(Attributes):
-        if not(i==2):
-            text_df[attr]=[list(emotion.affect_frequencies.values())[i] for emotion in text_df['emo']]
-    text_df.dropna(inplace=True)
-    print("Length of text_df", len(text_df))
+    attributes = ['fear','anger','trust','surprise','positive','negative',
+                'sadness','disgust','joy','anticipation']
+    text_df = text_df.reindex(columns=text_df.columns.tolist() + attributes)
+    for i in range(len(text_df)):
+        for attr in attributes:
+            try:
+                value = text_df.emo[i].affect_frequencies[attr]
+            except:
+                value = 0
+            text_df.iloc[i, text_df.columns.get_loc(attr)] = value
+    
+    print("text_df.shape = ", text_df.shape)
     ##################### TEXT BLOB ################################
     print('---------TextBlob----------')
     text_df['TBsubjectivity']=[TextBlob(text).sentiment.subjectivity for text in text_df['text']]
     text_df['TBpolarity']=[TextBlob(text).sentiment.polarity for text in text_df['text']]
-    print("Length of text_df", len(text_df))
+    print("text_df.shape = ", text_df.shape)
     ########################### READABILITY ################################
     print('---------READABILITY----------')
     
@@ -493,7 +486,7 @@ def main():
     text_df['gunning_fog'] = text_df['text'].apply(gunning_fog)
     text_df['smog'] = text_df['text'].apply(smog)
     
-    print("Length of text_df", len(text_df))
+    print("text_df.shape = ", text_df.shape)
     ########################### PARALLEL PHRASE COUNT ############################
     print('---------PARALLEL PHRASE COUNT---------')
     parser = CoreNLPParser()
@@ -536,7 +529,7 @@ def main():
     text_df['parallel_count'] = text_df.sentences.apply(count_parallels)
     text_df['parallel_per_sent'] = text_df.parallel_count/text_df.num_sents
     
-    print("Length of text_df", len(text_df))
+    print("text_df.shape = ", text_df.shape)
     ########################### PARSE TREE DEPTH ###########################
     print('---------PARSE TREE DEPTH----------')
 
@@ -557,6 +550,8 @@ def main():
     mean_depth=tree_depth.groupby(by='date').mean(depth)
     text_df=pd.merge(text_df, mean_depth, how='left', on='date')
     tree_depth.to_csv('sentence_depth_'+suffix+'.csv',index=False)
+    
+    print("text_df.shape = ", text_df.shape)
     
     tsw = text_df[['text', 'sentences', 'words', 'word_set']]
     tsw.to_csv('text_sentence_words_'+suffix+'.csv')
