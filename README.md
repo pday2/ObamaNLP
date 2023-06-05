@@ -16,6 +16,20 @@ Kylan Young and Peter Day
 * parallelism.ipynb - Parallel grammar construct detector and counter
 * obama_vs_gwb.ipynb - Comparing Obama to Bush
 
+------------------------------------------------------------------------------
+
+# Data Directories
+
+* Data - 455 [Obama Speeches from American Rhetoric](https://www.americanrhetoric.com/barackobamaspeeches.htm) in txt and csv
+* DataUCSB - 129 [Obama speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/barack-obama-event-timeline) in txt and csv
+* DataWiki - [Wikipedia timelines of Obama's presidential years](https://en.wikipedia.org/wiki/Timeline_of_the_Barack_Obama_presidency) csv
+* GWB - 82 [George W Bush speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/george-w-bush-event-timeline)
+* NYT - 101 news articles from The New York Times
+* OtherSources - 10 articles from other news sources
+* speeches - 101 Obama speeches for comparison with NYT and WSJ
+* Top10 - 10 of Obama's most popular speeches
+* word_lists - Various lists of words, stopwords, Dale-Chall easy word list
+* WSJ - 101 news articles from The Wall Street Journal
 
 ------------------------------------------------------------------------------
 
