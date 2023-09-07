@@ -22,17 +22,18 @@ This is the repository for our research for our Master's Thesis at KU Leuven.
 
 # Data Directories
 
-* Data - 455 [Obama Speeches from American Rhetoric](https://www.americanrhetoric.com/barackobamaspeeches.htm) in txt and csv
-* DataUCSB - 129 [Obama speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/barack-obama-event-timeline) in txt and csv
-* DataWiki - [Wikipedia timelines of Obama's presidential years](https://en.wikipedia.org/wiki/Timeline_of_the_Barack_Obama_presidency) csv
-* genData - generated csv data files
-* GWB - 82 [George W Bush speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/george-w-bush-event-timeline)
-* NYT - 101 news articles from The New York Times
-* OtherSources - 10 articles from other news sources
-* speeches - 101 Obama speeches for comparison with NYT and WSJ
-* Top10 - 10 of Obama's most popular speeches
-* word_lists - Various lists of words, stopwords, Dale-Chall easy word list
-* WSJ - 101 news articles from The Wall Street Journal
+* Data/amrhet - 455 [Obama Speeches from American Rhetoric](https://www.americanrhetoric.com/barackobamaspeeches.htm) in txt and csv
+* Data/DataUCSB - 129 [Obama speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/barack-obama-event-timeline) in txt and csv
+* Data/DataWiki - [Wikipedia timelines of Obama's presidential years](https://en.wikipedia.org/wiki/Timeline_of_the_Barack_Obama_presidency) csv
+* Data/genData - generated csv data files
+* Data/GWB - 82 [George W Bush speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/george-w-bush-event-timeline)
+* Data/NYT - 101 news articles from The New York Times
+* Data/OtherSources - 10 articles from other news sources
+* Data/speeches - 101 Obama speeches for comparison with NYT and WSJ
+* Data/Top10 - 10 of Obama's most popular speeches
+* Data/word_lists - Various lists of words, stopwords, Dale-Chall easy word list
+* Data/WSJ - 101 news articles from The Wall Street Journal
+* thesis - pdf of our thesis
 
 ------------------------------------------------------------------------------
 
