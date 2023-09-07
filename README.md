@@ -3,7 +3,7 @@
 
 This is the repository for our research for our Master's Thesis at KU Leuven. 
 
-##Kylan Young and Peter Day
+## Kylan Young and Peter Day
 
 * encodingPCA2.ipynb - Spacy encodings, PCA analysis and biplots
 * posTagging.ipynb - Stanza part of Speech tagging and proportion calculations
@@ -25,6 +25,7 @@ This is the repository for our research for our Master's Thesis at KU Leuven.
 * Data - 455 [Obama Speeches from American Rhetoric](https://www.americanrhetoric.com/barackobamaspeeches.htm) in txt and csv
 * DataUCSB - 129 [Obama speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/barack-obama-event-timeline) in txt and csv
 * DataWiki - [Wikipedia timelines of Obama's presidential years](https://en.wikipedia.org/wiki/Timeline_of_the_Barack_Obama_presidency) csv
+* genData - generated csv data files
 * GWB - 82 [George W Bush speeches from U Cal Santa Barbara](https://www.presidency.ucsb.edu/documents/george-w-bush-event-timeline)
 * NYT - 101 news articles from The New York Times
 * OtherSources - 10 articles from other news sources
