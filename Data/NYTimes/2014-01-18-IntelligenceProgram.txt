@@ -1,0 +1,61 @@
+President Obama, acknowledging that high-tech surveillance poses a threat to civil liberties, announced significant changes on Friday to the way the government collects and uses telephone records, but left in place many other pillars of the nation's intelligence programs.
+
+Responding to the clamor over sensational disclosures about the National Security Agency's spying practices, Mr. Obama said he would restrict the ability of intelligence agencies to gain access to phone records, and would ultimately move that data out of the hands of the government.
+
+But in a speech at the Justice Department that seemed more calculated to reassure audiences at home and abroad than to force radical change, Mr. Obama defended the need for the broad surveillance net assembled by the N.S.A. And he turned to Congress and the intelligence agencies themselves to work out the details of any changes.
+
+"America's capabilities are unique," Mr. Obama said. "And the power of new technologies means that there are fewer and fewer technical constraints on what we can do. That places a special obligation on us to ask tough questions about what we should do."
+
+Invoking lofty principles and then going into a highly technical discussion of the N.S.A.'s procedures, Mr. Obama said he would require prior court approval each time an agency analyst wants access to calling records, except in emergencies. He also said he had forbidden eavesdropping on the leaders of allied countries, after the disclosure of such activities ignited a diplomatic firestorm with Germany, Brazil and other countries.
+
+The full extent of that surveillance has not been publicly acknowledged, but a senior administration official said that the surveillance of dozens of foreign leaders has ended.
+
+The president insisted there was no evidence the N.S.A. had abused its power, and said that many of its practices were necessary to protect Americans from a host of threats since the Sept. 11, 2001, terrorist attacks.
+
+Mr. Obama's carefully calibrated proposals offered little comfort to civil-liberties advocates hoping for a thorough overhaul of the N.S.A.'s practices.
+
+For example, Mr. Obama did not accept one of the most far-reaching recommendations of his own advisory panel on surveillance practices: requiring court approval for so-called national security letters, a kind of subpoena allowing the F.B.I. to obtain information about people from their banks, cellphone providers and other companies.
+
+With the president setting in motion multiple internal administration reviews and asking Congress to take up some of the most difficult issues, the debate over surveillance practices is likely to continue unabated, eight months after it was touched off by the disclosure of classified information by a former N.S.A. contractor, Edward J. Snowden.
+
+Mr. Obama made only a brief, critical reference to Mr. Snowden, saying his actions had jeopardized the nation's defense and framed a debate that has "often shed more heat than light."
+
+Still, noting his own record of opposition to intrusive surveillance and the "cautionary tale" of unchecked state spying in countries like the former East Germany, Mr. Obama said the disclosures raised genuine issues of the balance between liberty and security.
+
+"When you cut through the noise," the president said, "what's really at stake is how we remain true to who we are in a world that is remaking itself at dizzying speed."
+
+Though Mr. Obama has been weighing these changes for months, he made a final decision on the court order for gaining access to phone records only on Thursday night, an official said, attesting to the extreme delicacy of these issues and the competing interests at play.
+
+Mr. Obama's stated intent to get the government out of the business of warehousing Americans' calling data in bulk may prove easier said than done. The phone companies have resisted taking on that role, which raises an array of difficulties, as Mr. Obama acknowledged in his speech.
+
+The president gave Attorney General Eric H. Holder Jr. 60 days to come back with recommendations; the government, for the time being, will continue to collect the data until Congress decides where ultimately it should be held.
+
+Civil-liberties groups and lawmakers who have been critical of the N.S.A.'s practices appeared divided over whether Mr. Obama's proposal on bulk phone records should be greeted with applause or wariness.
+
+Senators Ron Wyden of Oregon, Tom Udall of New Mexico and Martin Heinrich of New Mexico -- three Democrats on the Intelligence Committee who have been outspoken critics of government surveillance -- jointly called Mr. Obama's embrace of that goal "a major milestone," although they said they would continue to push for other overhauls Mr. Obama did not endorse.
+
+But Anthony D. Romero, the executive director of the American Civil Liberties Union, was more skeptical, noting that Mr. Obama had warned of hurdles with moving the data into private hands. "The bulk collection and retention of data in government warehouses, government facilities, seems to still be an open question," he said.
+
+For analysts working at the N.S.A., Mr. Obama's changes will have two immediate effects. They will be able to scrutinize phone calls that are only two steps removed from a number associated with a terrorism suspect, rather than three.
+
+And, when the Foreign Intelligence Surveillance Court signs off on new procedures, the analysts will first have to persuade a judge that there is reason to scrutinize callers linked to a particular phone number, though Mr. Obama left a loophole allowing the N.S.A. to act on its own in a "true emergency," with after-the-fact judicial review.
+
+While nothing in federal statutes explicitly gives the court the authority to grant requests to obtain the data, the Justice Department decided that it would most likely consent to doing so, in part because for a period several years ago, the court signed off on each query, officials said.
+
+Two strong defenders of the N.S.A., the leaders of the House and Senate Intelligence Committees, Representative Mike Rogers, Republican of Michigan, and Senator Dianne Feinstein, Democrat of California, focused on that change as a potential problem.
+
+"If instituted, that approval process must be made faster in the future than it was in the past -- when it took up to nine days to gain court approval for a single search," they said in a joint statement.
+
+Mr. Obama also said he was taking the "unprecedented step" of extending privacy safeguards to non-Americans, including requiring that data collected abroad be deleted after a certain period and limiting its use to specific security requirements, like counterterrorism and cybersecurity.
+
+"The bottom line," he said, "is that people around the world -- regardless of their nationality -- should know that the United States is not spying on ordinary people who don't threaten our national security."
+
+Mr. Romero said Mr. Obama's promotion of privacy protections for noncitizens abroad was a "breakthrough moment." Still, a senior intelligence official has said that most of the new requirements essentially codified what the N.S.A.'s practices have already been.
+
+The president did not specify which foreign leaders would be on the no-spying list. But, he said, "Heads of state and government with whom we work closely, and on whose cooperation we depend, should feel confident that we are treating them as real partners."
+
+Mr. Obama made no mention of two of the recommendations of his panel of most pressing concern to Silicon Valley: that the N.S.A. not undermine commercial software, and that it move away from exploiting flaws in software to conduct cyberattacks or surveillance.
+
+To confront the broader privacy issues raised by the amassing and storage of personal data, Mr. Obama said he had appointed John D. Podesta, who recently joined the White House as a senior adviser, to lead an administration review.
+
+Modifying a proposal from his advisory group, Mr. Obama proposed a panel of advocates on privacy and technology issues that would appear before the Foreign Intelligence Surveillance Court. But the panel, composed of part-time lawyers, would be called on only in "novel" cases, rather than in every case. Left unclear was who would decide which cases are novel.

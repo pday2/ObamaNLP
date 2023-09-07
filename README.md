@@ -1,7 +1,9 @@
 # Shaping a Leader's Words
 ## An analysis of Barack Obama’s speeches through natural language processing
 
-Kylan Young and Peter Day
+This is the repository for our research for our Master's Thesis at KU Leuven. 
+
+##Kylan Young and Peter Day
 
 * encodingPCA2.ipynb - Spacy encodings, PCA analysis and biplots
 * posTagging.ipynb - Stanza part of Speech tagging and proportion calculations

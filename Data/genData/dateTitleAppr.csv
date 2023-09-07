@@ -1,0 +1,413 @@
+date,title,url,beg,end,approval,disapproval,no opinon
+2009-01-24,First Presidential Weekly Speech,Data/barackobamaweekly1.txt,2009-01-21,2009-01-25,67.0,13.0,22.0
+2009-01-26,Al-Arabiya Television Interview,Data/barackobamaal-arabiya.txt,2009-01-26,2009-02-01,66.0,18.0,17.0
+2009-02-04,Executive Compensation Salary Cap Speech,Data/barackobamaexecutivecompensation.txt,2009-02-02,2009-02-08,65.0,21.0,15.0
+2009-02-09,First Prime Time Press Conference,Data/barackobamafirstprimetimepressconference.txt,2009-02-09,2009-02-15,64.0,22.0,14.0
+2009-02-12,Abraham Lincoln D.C. Bicentennial Celebration Speech,Data/barackobamalincolnbicentennialspeech.txt,2009-02-09,2009-02-15,64.0,22.0,14.0
+2009-02-12,Lincoln Association 102nd Birthday Banquet Speech,Data/barackobamalincolnbirthdaybanquet.txt,2009-02-09,2009-02-15,64.0,22.0,14.0
+2009-02-24,State of the Nation Address to Congress Speech,Data/barackobamajointsession2009.txt,2009-02-23,2009-03-01,64.0,23.0,13.0
+2009-02-27,Ending the Iraq War at Camp Lejeune Speech,Data/barackobamacamplejeune2009.txt,2009-02-23,2009-03-01,64.0,23.0,13.0
+2009-03-10,Speech to Hispanic Chamber of Commerce,Data/barackobamahispanicchamberofcommerce.txt,2009-03-09,2009-03-15,62.0,28.0,11.0
+2009-04-02,G-20 London Economic Summit Press Conference,Data/barackobamag20summitpressconference.txt,2009-03-30,2009-04-05,62.0,28.0,10.0
+2009-04-03,Speech at Strasbourg Town Hall,Data/barackobamastrasbourgspeech.txt,2009-03-30,2009-04-05,62.0,28.0,10.0
+2009-04-05,Speech at Hradcany Square in Prague,Data/barackobamapraguespeech.txt,2009-03-30,2009-04-05,62.0,28.0,10.0
+2009-04-06,Speech to the Turkish Parliament,Data/barackobamaturkishparliament.txt,2009-04-06,2009-04-12,61.0,28.0,11.0
+2009-04-14,A New Foundation Speech at Georgetown,Data/barackobamaeconomicvisiongeorgetown.txt,2009-04-13,2009-04-19,62.0,29.0,9.0
+2009-04-20,First Address at the Central Intelligence Agency,Data/barackobamaCIAfirstvisit.txt,2009-04-20,2009-04-26,65.0,29.0,6.0
+2009-04-23,Holocaust Days of Remembrance Ceremony Speech,Data/barackobamaholocaustdaysofremembrance.txt,2009-04-20,2009-04-26,65.0,29.0,6.0
+2009-05-09,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2009.txt,2009-05-04,2009-05-10,66.0,27.0,7.0
+2009-05-14,Arizona State University Commencement Address,Data/barackobamaarizonastateuniversitycommencement.txt,2009-05-11,2009-05-17,64.0,29.0,8.0
+2009-05-17,Joint Press Remarks with Benjamin Netanyahu,Data/barackobamajointpressbenjaminnetanyahu.txt,2009-05-11,2009-05-17,64.0,29.0,8.0
+2009-05-18,Notre Dame University Commencement Speech,Data/barackobamanotredamecommencement.txt,2009-05-18,2009-05-24,64.0,28.0,8.0
+2009-05-21,National Security Speech at the National Archives,Data/barackobamanationalarchives.txt,2009-05-18,2009-05-24,64.0,28.0,8.0
+2009-05-29,Speech on Securing U.S. Cybersecurity Infrastructure,Data/barackobamacybersecurity.txt,2009-05-25,2009-05-31,63.0,30.0,7.0
+2009-06-04,"""New Beginning"" Speech at Cairo University",Data/barackobamacairouniversity.txt,2009-06-01,2009-06-07,62.0,31.0,7.0
+2009-06-04,Speech at Buchenwald Concentration Camp,Data/barackobamabuchenwaldconcentrationcamp.txt,2009-06-01,2009-06-07,62.0,31.0,7.0
+2009-06-05,Speech Marking the 65th Anniversary of D-Day,Data/barackobamadday65anniversary.txt,2009-06-01,2009-06-07,62.0,31.0,7.0
+2009-06-15,American Medical Association Speech,Data/barackobamaamericanmedicalassociation.txt,2009-06-15,2009-06-21,59.0,34.0,7.0
+2009-06-23,On the Dignity & Courage of the Iranian Peoples,Data/barackobamauprisingiran.txt,2009-06-22,2009-06-28,60.0,33.0,7.0
+2009-06-23,Third Prime Time Press Conference (Iran & Heath Care),Data/barackobamapressconferenceiranandhealthcare.txt,2009-06-22,2009-06-28,60.0,33.0,7.0
+2009-07-07,Moscow New Economic School Speech,Data/barackobamaneweconomicschool.txt,2009-07-06,2009-07-12,58.0,34.0,7.0
+2009-07-11,Ghanaian Parliament Address,Data/barackobamaghanaparliament.txt,2009-07-06,2009-07-12,58.0,34.0,7.0
+2009-07-13,Nomination of Regina Benjamin for Surgeon General,Data/barackobamasurgeongeneralnomination.txt,2009-07-13,2009-07-19,59.0,33.0,7.0
+2009-07-14,American Graduation Initiative Speech,Data/barackobamaamericangraduationinitiative.txt,2009-07-13,2009-07-19,59.0,33.0,7.0
+2009-08-29,Eulogy for Ted Kennedy,Data/barackobamaeulogytedkennedy.txt,2009-08-24,2009-08-30,50.0,43.0,7.0
+2009-09-08,Back-to-School Speech to America's Schoolchildren,Data/barackobamabacktoschoolspeech.txt,2009-09-07,2009-09-13,52.0,41.0,7.0
+2009-09-09,Eulogy for Walter Cronkite,Data/barackobamawaltercronkiteeulogy.txt,2009-09-07,2009-09-13,52.0,41.0,7.0
+2009-09-09,Joint Session of Congress Heath Care Speech,Data/barackobamajointsessionhealthcare.txt,2009-09-07,2009-09-13,52.0,41.0,7.0
+2009-09-11,9/11 Pentagon Memorial Speech,Data/barackobama911pentagonmemorialspeech.txt,2009-09-07,2009-09-13,52.0,41.0,7.0
+2009-09-23,United Nations 64th Session General Assembly Speech,Data/barackobamaunitednations64.txt,2009-09-21,2009-09-27,51.0,41.0,7.0
+2009-11-10,Fort Hood Memorial Service Speech,Data/barackobamaforthoodmemorial.txt,2009-11-09,2009-11-15,53.0,39.0,8.0
+2009-11-16,Town Hall Address in Shanghai,Data/barackobamashanghaitownhall.txt,2009-11-16,2009-11-22,49.0,44.0,7.0
+2009-12-01,Afghanistan Troop Surge at the U.S. Military Academy,Data/barackobamawestpointafghanistan.txt,2009-11-30,2009-12-06,50.0,44.0,7.0
+2009-12-06,Kennedy Center Honorees Address,Data/barackobamakennedycenterhonorees2009.txt,2009-11-30,2009-12-06,50.0,44.0,7.0
+2009-12-08,Brookings Institution Speech on Job Creation,Data/barackobamabrookingsinstitute.txt,2009-12-07,2009-12-13,49.0,42.0,8.0
+2009-12-10,Nobel Prize for Peace Speech and Lecture,Data/barackobamanobelprizespeech.txt,2009-12-07,2009-12-13,49.0,42.0,8.0
+2009-12-18,UN Copenhagen Climate Change Conference Speech,Data/barackobamaunitednationsclimatechange.txt,2009-12-14,2009-12-20,50.0,43.0,7.0
+2009-12-28,On NW Flight 253 Terrorist Threat and Iran Violence,Data/barackobamaflight253terrorismiranviolence.txt,2009-12-28,2010-01-03,51.0,43.0,7.0
+2009-12-29,NW Flight 253 Attempted Terrorist Attack Update,Data/barackobamadetroitterroristincident.txt,2009-12-28,2010-01-03,51.0,43.0,7.0
+2010-01-05,National Security Review Press Conference,Data/barackobamasecurityreviewpressconference.txt,2010-01-04,2010-01-10,51.0,43.0,7.0
+2010-01-07,Security Review Results and Aviation Security,Data/barackobamaaviationsecurity.txt,2010-01-04,2010-01-10,51.0,43.0,7.0
+2010-01-14,Speech on Financial Crisis Responsibility Fee,Data/barackobamafinancialcrisisresponsiblityfee.txt,2010-01-11,2010-01-17,50.0,43.0,7.0
+2010-01-17,Martin Luther King Remembrance Speech,Data/barackobamamlkremembrancespeech.txt,2010-01-11,2010-01-17,50.0,43.0,7.0
+2010-01-22,Lorain County Town Hall Speech and Q&A,Data/barackobamaloraincountytownhallspeech.txt,2010-01-18,2010-01-24,49.0,46.0,6.0
+2010-01-27,Auschwitz and Birkenau Remembrance Message,Data/barackobamaauschwitzbirkenauliberation65.txt,2010-01-25,2010-01-31,48.0,45.0,7.0
+2010-01-29,GOP Issues Conference Forum Dialogue,Data/barackobamagophouseissuesconference.txt,2010-01-25,2010-01-31,48.0,45.0,7.0
+2010-02-01,Press Conference on 2010 Budget Sent to Congress,Data/barackobama2010budgettocongress.txt,2010-02-01,2010-02-07,50.0,43.0,8.0
+2010-02-04,Speech at the 58th National Prayer Breakfast,Data/barackobama2010prayerbreakfastspeech.txt,2010-02-01,2010-02-07,50.0,43.0,8.0
+2010-02-09,Unannounced Briefing on Health Care and Jobs,Data/barackobamajobshealthcarebriefing.txt,2010-02-08,2010-02-14,51.0,42.0,7.0
+2010-02-19,Town Hall at Green Valley High School,Data/barackobamahendersontownhall.txt,2010-02-15,2010-02-21,49.0,43.0,8.0
+2010-03-03,Vote Push on Heath Care Reform Legislation,Data/barackobamaheathcarevotenow.txt,2010-03-01,2010-03-07,49.0,44.0,7.0
+2010-03-13,Blueprint for Reforming No Child Left Behind Act,Data/barackobamanochildleftbehind.txt,2010-03-08,2010-03-14,48.0,45.0,8.0
+2010-03-19,Health Care Speech at George Mason University,Data/barackobamahealthcaregeorgemason.txt,2010-03-15,2010-03-21,48.0,45.0,7.0
+2010-03-20,Speech to House Democratic Caucus on Health Care,Data/barackobamahousedemocraticcongresshealthcare.txt,2010-03-15,2010-03-21,48.0,45.0,7.0
+2010-03-21,Speech on House Passage of Health Care Reform Bill,Data/barackobamapassinghealthcarebill.txt,2010-03-15,2010-03-21,48.0,45.0,7.0
+2010-03-23,Speech on Signing Health Care Reform Bill into Law,Data/barackobamahealthreformbillsigning.txt,2010-03-22,2010-03-28,49.0,44.0,7.0
+2010-03-28,Speech to U.S. Military in Afghanistan,Data/barackobamatroopsafghanistan.txt,2010-03-22,2010-03-28,49.0,44.0,7.0
+2010-03-31,Speech on Energy Security at Andrews Air Force Base,Data/barackobamaenergysecurityandrewsafb.txt,2010-03-29,2010-04-04,49.0,44.0,7.0
+2010-04-08,START Treaty Joint Presser with Medvedev,Data/barackobamastarttreaty.txt,2010-04-05,2010-04-11,47.0,46.0,6.0
+2010-04-09,On Justice Stevens and West Virginia Mining Tragedy,Data/barackobamawvminejusticestevens.txt,2010-04-05,2010-04-11,47.0,46.0,6.0
+2010-04-15,NASA Space Exploration in the 21st Century Speech,Data/barackobamanasaboldcourse.txt,2010-04-12,2010-04-18,48.0,45.0,7.0
+2010-04-22,Cooper Union Speech on Wall Street Financial Reform,Data/barackobamareformingwallstreet.txt,2010-04-19,2010-04-25,50.0,43.0,7.0
+2010-04-25,Eulogy for Upper Big Branch Miners,Data/barackobamaeulogycoalminers.txt,2010-04-19,2010-04-25,50.0,43.0,7.0
+2010-04-29,Eulogy for Dorothy Height,Data/barackobamadorothyheight.txt,2010-04-26,2010-05-02,48.0,45.0,7.0
+2010-05-01,Commencement Speech at Michigan University,Data/barackobamauniversityofmichigancommencement.txt,2010-04-26,2010-05-02,48.0,45.0,7.0
+2010-05-01,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2010.txt,2010-04-26,2010-05-02,48.0,45.0,7.0
+2010-05-10,Speech Nominating Elena Kagan for USSC Justice,Data/barackobamaelenakagannomination.txt,2010-05-10,2010-05-16,49.0,43.0,7.0
+2010-05-22,U.S. Military Academy Commencement Address,Data/barackobamawestpointcommencement.txt,2010-05-17,2010-05-23,48.0,45.0,8.0
+2010-05-27,Press Conference on Gulf Oil Spill Disaster,Data/barackobamagulfoilspillpresser.txt,2010-05-24,2010-05-30,46.0,46.0,8.0
+2010-05-28,Grande Isle Briefing on Gulf Oil Spill Disaster,Data/barackobamagrandeisleoilspillbriefing.txt,2010-05-24,2010-05-30,46.0,46.0,8.0
+2010-06-02,Speech on the Economy at Carnegie Mellon,Data/barackobamacarnegiemellon.txt,2010-05-31,2010-06-06,47.0,45.0,8.0
+2010-06-07,Kalamazoo Central H.S. Commencement Speech,Data/barackobamakalamazoocommencement.txt,2010-06-07,2010-06-13,46.0,46.0,8.0
+2010-06-09,Speech on UN Security Council Sanctions Against Iran,Data/barackobamairansanctions.txt,2010-06-07,2010-06-13,46.0,46.0,8.0
+2010-06-15,Speech to Military Personnel in Pensacola,Data/barackobamapensacolamilitary.txt,2010-06-14,2010-06-20,47.0,45.0,8.0
+2010-06-15,Oval Office Speech on BP Oil Spill Disaster,Data/barackobamabpoilspillovaloffice.txt,2010-06-14,2010-06-20,47.0,45.0,8.0
+2010-06-16,Speech to the American Nurses Association,Data/barackobamanursesassociation.txt,2010-06-14,2010-06-20,47.0,45.0,8.0
+2010-06-21,Father's Day Speech,Data/barackobamafathersday2010.txt,2010-06-21,2010-06-27,45.0,46.0,9.0
+2010-06-23,On the Removal of Gen. McChrystal in Afghanistan,Data/barackobamamccrystalremovedafghanistan.txt,2010-06-21,2010-06-27,45.0,46.0,9.0
+2010-07-01,Comprehensive Immigration Reform Speech,Data/barackobamacomprehensiveimmigrationreform.txt,2010-06-28,2010-07-04,46.0,45.0,9.0
+2010-07-02,Eulogy for Robert Byrd,Data/barackobamarobertbyrdeulogy.txt,2010-06-28,2010-07-04,46.0,45.0,9.0
+2010-07-21,Dodd-Frank Consumer Protection Act Speech,Data/barackobamawallstreetreformactsigning.txt,2010-07-19,2010-07-25,45.0,47.0,8.0
+2010-07-29,Urban League Centennial Address on Education,Data/barackobamaurbanleaguecentennial.txt,2010-07-26,2010-08-01,45.0,47.0,8.0
+2010-08-02,Disabled Veterans Conference Speech on Iraq OPS,Data/barackobamairaqendingcombat.txt,2010-08-02,2010-08-08,45.0,48.0,7.0
+2010-08-13,Iftar Dinner Speech on Religious Tolerance,Data/barackobamaiftardinner.txt,2010-08-09,2010-08-15,44.0,48.0,8.0
+2010-09-11,9/11 Pentagon Memorial Speech,Data/barackobama911pentagonmemorial.txt,2010-09-06,2010-09-12,46.0,46.0,8.0
+2010-09-23,United Nations 65th Session General Assembly Speech,Data/barackobamaunitednations65.txt,2010-09-20,2010-09-26,44.0,48.0,8.0
+2010-11-03,Midterm Election Press Conference,Data/barackobamamidtermpresser.txt,2010-11-01,2010-11-07,45.0,47.0,8.0
+2010-11-06,U.S.-Indian Business Summit Address,Data/barackobamamumbaibusinesssummit.txt,2010-11-01,2010-11-07,45.0,47.0,8.0
+2010-11-08,Indian Parliament Joint Session Speech,Data/barackobamaindianparliament.txt,2010-11-08,2010-11-14,44.0,48.0,8.0
+2010-11-10,Indonesia University Speech,Data/barackobamaindonesiauniversity.txt,2010-11-08,2010-11-14,44.0,48.0,8.0
+2010-11-16,Medal of Honor Award to Salvatore Giunta Speech,Data/barackobamagiuntamedalofhonor.txt,2010-11-15,2010-11-21,46.0,46.0,7.0
+2010-12-03,Speech to Troops at Bagram Air Field,Data/barackobamabagramairfield.txt,2010-11-29,2010-12-05,46.0,46.0,9.0
+2010-12-10,Presser on Tax Cuts with William Jefferson Clinton,Data/barackobamawjclintontaxcuts.txt,2010-12-06,2010-12-12,45.0,48.0,7.0
+2011-01-12,Tucson Memorial Service Speech,Data/barackobamatucsonmemorial.txt,2011-01-10,2011-01-16,49.0,42.0,9.0
+2011-02-01,On the Political Transition in Egypt,Data/barackobamaegyptpoliticaltransition.txt,2011-01-31,2011-02-06,47.0,45.0,8.0
+2011-02-03,Speech at the 59th National Prayer Breakfast,Data/barackobama2011prayerbreakfast.txt,2011-01-31,2011-02-06,47.0,45.0,8.0
+2011-02-07,Speech to the US Chamber of Commerce,Data/barackobamachamberofcommerce.txt,2011-02-07,2011-02-13,48.0,43.0,8.0
+2011-02-10,National Wireless Initiative Address,Data/barackobamanationalwirelessinitiative.txt,2011-02-07,2011-02-13,48.0,43.0,8.0
+2011-02-11,Address on the Historic Revolution in Egypt,Data/barackobamaegyptrevolution.txt,2011-02-07,2011-02-13,48.0,43.0,8.0
+2011-02-23,Address on the Violence in Libya,Data/barackobamalibya.txt,2011-02-21,2011-02-27,48.0,44.0,8.0
+2011-03-18,Statement on Libya,Data/barackobamalibyawarning.txt,2011-03-14,2011-03-20,48.0,44.0,9.0
+2011-03-19,On Odyssey Dawn Limited Military Action in Libya,Data/barackobamalibyaltdmilitaryaction.txt,2011-03-14,2011-03-20,48.0,44.0,9.0
+2011-03-20,Speech to the People of Rio de Janeiro,Data/barackobamariodejaneiro.txt,2011-03-14,2011-03-20,48.0,44.0,9.0
+2011-03-21,Speech on Latin American to the People of Chile,Data/barackobamachilespeech.txt,2011-03-21,2011-03-27,45.0,47.0,8.0
+2011-03-28,Speech to the American People on Libya,Data/barackobamalibyanationspeech.txt,2011-03-28,2011-04-03,48.0,44.0,8.0
+2011-03-30,On American Energy Security at Georgetown Univ.,Data/barackobamaamericanenergysecurity.txt,2011-03-28,2011-04-03,48.0,44.0,8.0
+2011-04-13,Speech on Improving Fiscal Policy,Data/barackobamafiscalpolicy2011.txt,2011-04-11,2011-04-17,43.0,48.0,9.0
+2011-04-26,Announcement of 2012 Presidential Candidacy,Data/barackobama2012prescandidacy.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-04-27,Speech on Release of Official Certification of Birth,Data/barackobamabirthcertificatespeech.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-04-29,Remarks on the Tornado Devastation in Alabama,Data/barackobamaalabamatornado.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-04-29,Commencement Speech at Miami Dade College,Data/barackobamamiamidadecommencement.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-04-30,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2011.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-05-01,Speech Announcing the Death of Osama Bin Laden,Data/barackobamaosamabinladendeath.txt,2011-04-25,2011-05-01,44.0,47.0,9.0
+2011-05-06,Speech to Troops at Fort Campbell,Data/barackobamafortcampbellkytroops.txt,2011-05-02,2011-05-08,51.0,40.0,9.0
+2011-05-16,Commencement Speech at Booker T. Washington HS,Data/barackobamabookertwashington.txt,2011-05-16,2011-05-22,50.0,43.0,8.0
+2011-05-19,On American Diplomacy in the Middle East,Data/barackobamamiddleeastpolicy.txt,2011-05-16,2011-05-22,50.0,43.0,8.0
+2011-05-20,Speech to Intelligence Community at CIA Headquarters,Data/barackobamaciaheadquarters.txt,2011-05-16,2011-05-22,50.0,43.0,8.0
+2011-05-20,Joint Press Conference with Benjamin Netanyahu,Data/barackobamabenjaminnetanyahujointpress.txt,2011-05-16,2011-05-22,50.0,43.0,8.0
+2011-05-22,American-Israel Public Affairs Policy Conference,Data/barackobamaaipacpc2011.txt,2011-05-16,2011-05-22,50.0,43.0,8.0
+2011-05-25,Speech to the British Parliament,Data/barackobamabritishparliament.txt,2011-05-23,2011-05-29,49.0,43.0,8.0
+2011-05-29,Speech at the Memorial for Joplin Tornado Victims,Data/barackobamajoplinmemorial.txt,2011-05-23,2011-05-29,49.0,43.0,8.0
+2011-05-30,Department of Defense Personnel Announcement,Data/barackobamadefensepersonnel.txt,2011-05-30,2011-06-05,50.0,42.0,8.0
+2011-06-22,National Speech on Afghanistan War Troop Reduction,Data/barackobamaafghanistanwardrawdown.txt,2011-06-20,2011-06-26,43.0,49.0,7.0
+2011-06-24,Speech at Carnegie Mellon's Robotics Center,Data/barackobamacarnegiemellonrobotics.txt,2011-06-20,2011-06-26,43.0,49.0,7.0
+2011-06-29,Presser on Congressional Action to Promote Job Growth,Data/barackobamajobgrowthpresser.txt,2011-06-27,2011-07-03,46.0,47.0,8.0
+2011-07-25,Speech to the Nation on the Budget and Debt Ceiling,Data/barackobamadeficitreductionplan.txt,2011-07-25,2011-07-31,42.0,49.0,8.0
+2011-07-31,Statement on the Debt Compromise Agreement,Data/barackobamadebtapprovalstmt.txt,2011-07-25,2011-07-31,42.0,49.0,8.0
+2011-08-02,Statement on the Approved Debt Compromise,Data/barackobamadebtcompromise.txt,2011-08-01,2011-08-07,42.0,50.0,8.0
+2011-08-30,To the American Legion Conference in Minnesota,Data/barackobamaamericanlegion2011.txt,2011-08-29,2011-09-04,42.0,51.0,8.0
+2011-09-08,Joint Session of Congress Speech on Economy and Jobs,Data/barackobamajointsessionjobs.txt,2011-09-05,2011-09-11,43.0,49.0,8.0
+2011-09-19,Speech on Economic Growth and Deficit Reduction,Data/barackobamaeconomicplandebtreductionbill.txt,2011-09-19,2011-09-25,41.0,51.0,8.0
+2011-09-20,Speech on High-Level UNGA Meeting on Libya,Data/barackobamaunlibya.txt,2011-09-19,2011-09-25,41.0,51.0,8.0
+2011-09-21,United Nations 66th Session General Assembly Speech,Data/barackobamaunitednations66.txt,2011-09-19,2011-09-25,41.0,51.0,8.0
+2011-10-16,Speech at the MLK Memorial Dedication,Data/barackobamamlkmemorialdedication.txt,2011-10-10,2011-10-16,41.0,52.0,8.0
+2011-10-20,Speech on the Death of Muammar Qaddafi,Data/barackobamaqaddafideath.txt,2011-10-17,2011-10-23,41.0,51.0,8.0
+2011-11-16,Speech to the Australian Parliament,Data/barackobamaaustralianparliament.txt,2011-11-14,2011-11-20,43.0,49.0,9.0
+2011-12-02,Speech to the Tribal Nations Conference,Data/barackobamatribalnationsconference.txt,2011-11-28,2011-12-04,42.0,50.0,8.0
+2011-12-06,Speech on the Economy at Osawatomie High School,Data/barackobamaosawatomieeconomy.txt,2011-12-05,2011-12-11,43.0,50.0,7.0
+2011-12-17,Weekly Address Honoring Military Servicemembers,Data/barackobamaweeklyaddress17dec2011.txt,2011-12-12,2011-12-18,42.0,50.0,8.0
+2012-01-05,Speech on Military Defense Strategic Review,Data/barackobamamilitarystrategychanges.txt,2012-01-02,2012-01-08,46.0,47.0,8.0
+2012-02-01,Address on Housing at Falls Church,Data/barackobamahousingfallschurch.txt,2012-01-30,2012-02-05,46.0,47.0,8.0
+2012-02-03,Address on Veterans Jobs Corps,Data/barackobamaveteransjobscorps.txt,2012-01-30,2012-02-05,46.0,47.0,8.0
+2012-02-29,Iraq War Veterans and Families Gala Toast,Data/barackobamairaqwarveterangala.txt,2012-02-27,2012-03-04,45.0,48.0,6.0
+2012-03-04,To the American-Israel Public Affairs Committee,Data/barackobamaaipac2012.txt,2012-02-27,2012-03-04,45.0,48.0,6.0
+2012-03-26,Hankuk University Address,Data/barackobamahankukuniversity.txt,2012-03-26,2012-04-01,46.0,45.0,9.0
+2012-03-29,Speech on Repealing Oil and Gas Subsidies,Data/barackobamagasoilsubsidies.txt,2012-03-26,2012-04-01,46.0,45.0,9.0
+2012-04-03,Speech at an Associated Press Luncheon,Data/barackobamaapluncheon.txt,2012-04-02,2012-04-08,47.0,46.0,8.0
+2012-04-23,U.S. Holocaust Memorial Museum Address,Data/barackobamanationalholocaustmemorialmuseum.txt,2012-04-23,2012-04-29,48.0,46.0,6.0
+2012-04-28,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2012.txt,2012-04-23,2012-04-29,48.0,46.0,6.0
+2012-05-14,Barnard College Commencement Speech,Data/barackobamabarnardcollegecommencement.txt,2012-05-14,2012-05-20,47.0,46.0,7.0
+2012-06-13,Shimon Peres Presidential Medal of Freedom Award,Data/barackobamashimonperesemedaloffreedom.txt,2012-06-11,2012-06-17,46.0,48.0,7.0
+2012-06-28,On the US Supreme Court Affordable Care Act Ruling,Data/barackobamausschealthcareruling.txt,2012-06-25,2012-07-01,47.0,46.0,7.0
+2012-07-20,Remarks on the Tragedy in Aurora Colorado,Data/barackobamaauroratragedy.txt,2012-07-16,2012-07-22,45.0,48.0,7.0
+2012-07-23,Speech to the 113th VFW Convention,Data/barackobama113vfw.txt,2012-07-23,2012-07-29,47.0,47.0,7.0
+2012-09-12,Rose Garden Address on Benghazi Attacks,Data/barackobamabenghaziattacks.txt,2012-09-10,2012-09-16,50.0,44.0,7.0
+2012-09-14,Benghazi Victims Transfer of Remains Speech,Data/barackobamabenghazivictims.txt,2012-09-10,2012-09-16,50.0,44.0,7.0
+2012-09-25,Clinton Global Initiative Speech on Human Trafficking,Data/barackobamaclintonglobalinitiative2012.txt,2012-09-24,2012-09-30,48.0,45.0,6.0
+2012-09-25,United Nations 67th Session General Assembly Speech,Data/barackobamaunitednations67.txt,2012-09-24,2012-09-30,48.0,45.0,6.0
+2012-10-29,On Hurricane Sandy After Emergency Team Briefings,Data/barackobamahurricanesandy29oct.txt,2012-10-29,2012-11-04,52.0,45.0,3.0
+2012-10-30,On Hurricane Sandy at the American Red Cross,Data/barackobamaredcross.txt,2012-10-29,2012-11-04,52.0,45.0,3.0
+2012-11-06,Second Presidential Election Victory Speech,Data/barackobamasecondpresidentialvictoryspeech.txt,2012-11-05,2012-11-11,51.0,43.0,6.0
+2012-11-09,Post Election Speech on Deficit Reduction and Jobs,Data/barackobamapostelectioneconomy.txt,2012-11-05,2012-11-11,51.0,43.0,6.0
+2012-11-14,First Presser Following Presidential Reelection,Data/barackobamapresserpetraeus.txt,2012-11-12,2012-11-18,53.0,41.0,6.0
+2012-11-19,Yangon University Address,Data/barackobamayangonuniversity.txt,2012-11-19,2012-11-25,52.0,40.0,8.0
+2012-12-14,On the Sandy Hook Elementary School Shootings,Data/barackobamanewtownshooting.txt,2012-12-10,2012-12-16,52.0,40.0,8.0
+2012-12-16,"Newtown, Connecticut Interfaith Vigil Speech",Data/barackobamanewtownvigilspeech.txt,2012-12-10,2012-12-16,52.0,40.0,8.0
+2012-12-19,End Year Press Conference,Data/barackobamagunviolencepresser.txt,2012-12-17,2012-12-23,57.0,37.0,7.0
+2012-12-21,Eulogy for Senator Daniel Inouye,Data/barackobamadanielinouyeeulogy.txt,2012-12-17,2012-12-23,57.0,37.0,7.0
+2013-01-14,Final First Term Press Conference,Data/barackobamafinalfirsttermpresser.txt,2013-01-14,2013-01-20,50.0,43.0,7.0
+2013-01-16,On Signing Executive Actions to Reduce Gun Violence,Data/barackobamagunviolenceexecacts.txt,2013-01-14,2013-01-20,50.0,43.0,7.0
+2013-01-21,SECOND PRESIDENTIAL INAUGURAL ADDRESS,Data/barackobamasecondinauguraladdress.txt,2013-01-21,2013-01-27,52.0,43.0,5.0
+2013-01-21,Inaugural Luncheon Toast,Data/barackobamainauguralluncheontoast.txt,2013-01-21,2013-01-27,52.0,43.0,5.0
+2013-01-29,Comprehensive Immigration Reform Speech,Data/barackobamaimmagrationreform.txt,2013-01-28,2013-02-03,53.0,42.0,6.0
+2013-02-12,Fourth Presidential State of the Union Speech,Data/barackobamamiddleclasseconomy.txt,2013-02-11,2013-02-17,51.0,43.0,6.0
+2013-02-15,On Strengthening the Economy for the Middle Class,Data/barackobamasequesternewportnews.txt,2013-02-11,2013-02-17,51.0,43.0,6.0
+2013-02-26,Newport News Speech on the Impact of the Sequester,Data/barackobamarosaparksstatue.txt,2013-02-25,2013-03-03,49.0,44.0,7.0
+2013-02-27,Rosa Parks Statue Dedication Speech,Data/barackobamajerusalemconventioncenter.txt,2013-02-25,2013-03-03,49.0,44.0,7.0
+2013-03-22,Speech in the Children's Memorial at Yad Vashem,Data/barackobamachildrensmemorialyadvashem.txt,2013-03-18,2013-03-24,47.0,45.0,8.0
+2013-04-02,BRAIN Initiative Announcement,Data/barackobamabraininitiative.txt,2013-04-01,2013-04-07,48.0,45.0,7.0
+2013-04-03,Gun Violence Reduction Speech in Colorado,Data/barackobamagunviolencereductiondenver.txt,2013-04-01,2013-04-07,48.0,45.0,7.0
+2013-04-08,Gun Violence Reduction Speech in Connecticut,Data/barackobamagunviolencereductionconnecticut.txt,2013-04-08,2013-04-14,49.0,45.0,6.0
+2013-04-11,U.S. Army Chaplain Emil Kapaun Medal of Honor Award,Data/barackobamaemilkapaunmedalofhonor.txt,2013-04-08,2013-04-14,49.0,45.0,6.0
+2013-04-15,First Statement on Boston Marathon Bombings,Data/barackobamabostonmarathonexplosionsfirststatement.txt,2013-04-15,2013-04-21,50.0,43.0,7.0
+2013-04-16,Second Statement on Boston Marathon Bombings,Data/barackobamabostonmarathonexplosionssecondstatement.txt,2013-04-15,2013-04-21,50.0,43.0,7.0
+2013-04-17,On Senate Vote Against Background Checks,Data/barackobamasenateguncontrolbillvote.txt,2013-04-15,2013-04-21,50.0,43.0,7.0
+2013-04-18,Boston Interfaith Prayer Service Speech,Data/barackobamabostoninterfaithprayerservice.txt,2013-04-15,2013-04-21,50.0,43.0,7.0
+2013-04-19,Third Statement on Boston Marathon Bombings,Data/barackobamabostonmarathonexplosionsthirdstatement.txt,2013-04-15,2013-04-21,50.0,43.0,7.0
+2013-04-25,George W. Bush Presidential Library Dedication Speech,Data/barackobamagwbushlibrarydedication.txt,2013-04-22,2013-04-28,51.0,42.0,7.0
+2013-04-25,West Fertilizer Plant Tragedy Memorial Speech,Data/barackobamawestfertilizerplantmemorial.txt,2013-04-22,2013-04-28,51.0,42.0,7.0
+2013-04-27,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2013.txt,2013-04-22,2013-04-28,51.0,42.0,7.0
+2013-04-30,Press Q&A on Syria and Sundry Topics,Data/barackobamasyriaetalpresser.txt,2013-04-29,2013-05-05,50.0,44.0,6.0
+2013-05-03,Speech to the People of Mexico,Data/barackobamamexicopeople.txt,2013-04-29,2013-05-05,50.0,44.0,6.0
+2013-05-15,Remarks on IG Audit of the IRS,Data/barackobamairsmisconduct.txt,2013-05-13,2013-05-19,49.0,44.0,6.0
+2013-05-19,Morehouse College Commencement Address,Data/barackobamamorehousecollegecommencement.txt,2013-05-13,2013-05-19,49.0,44.0,6.0
+2013-05-23,National Defense University Speech on Terrorism,Data/barackobamanationaldefenseuniversity.txt,2013-05-20,2013-05-26,49.0,44.0,8.0
+2013-05-24,U.S. Naval Academy Commencement Address,Data/barackobamanavalacademycommencement.txt,2013-05-20,2013-05-26,49.0,44.0,8.0
+2013-06-07,On Affordable Care Act and Domestic Surveillance,Data/barackobamasanjosesurveillance.txt,2013-06-03,2013-06-09,48.0,45.0,8.0
+2013-06-11,US Senate Call to Comprehensive Immigration Reform,Data/barackobamaimmigrationreformcomprehensive.txt,2013-06-10,2013-06-16,47.0,46.0,8.0
+2013-06-17,Northern Ireland Speech,Data/barackobamanorthernireland.txt,2013-06-17,2013-06-23,46.0,46.0,8.0
+2013-06-19,Brandenburg Gate Speech,Data/barackobamabrandenburggate.txt,2013-06-17,2013-06-23,46.0,46.0,8.0
+2013-06-30,Cape Town University Speech,Data/barackobamacapetownuniversity.txt,2013-06-24,2013-06-30,47.0,45.0,8.0
+2013-07-19,Speech on Trayvon Martin,Data/barackobamatrayvonmartin.txt,2013-07-15,2013-07-21,47.0,46.0,7.0
+2013-07-24,Knox College Speech on the Economy,Data/barackobamaknoxcollegeeconomy.txt,2013-07-22,2013-07-28,46.0,47.0,8.0
+2013-07-27,Korean War Armistice Signing 60th Anniversary Speech,Data/barackobamakoreanwar60tharmistice.txt,2013-07-22,2013-07-28,46.0,47.0,8.0
+2013-08-09,Intelligence Gathering Reform Press Conference,Data/barackobamaintelreformpresser.txt,2013-08-05,2013-08-11,44.0,48.0,8.0
+2013-08-28,'Let Freedom Ring' Ceremony Speech,Data/barackobamaletfreedomringceremony.txt,2013-08-26,2013-09-01,44.0,48.0,8.0
+2013-08-31,On Syrian Government Use of Chemical Weapons,Data/barackobamasyriachemicalweapons.txt,2013-08-26,2013-09-01,44.0,48.0,8.0
+2013-09-10,Speech to the Nation on Syria,Data/barackobamasyrianation.txt,2013-09-09,2013-09-15,45.0,46.0,9.0
+2013-09-22,Navy Yard Shooting Memorial Speech,Data/barackobamanavyyardshootingmemorial.txt,2013-09-16,2013-09-22,44.0,47.0,8.0
+2013-09-24,On Health Care at WJClinton Global Initiative,Data/barackobamaclintonglobalinitiative.txt,2013-09-23,2013-09-29,45.0,48.0,7.0
+2013-09-24,United Nations 68th Session General Assembly Speech,Data/barackobamaunitednations68.txt,2013-09-23,2013-09-29,45.0,48.0,7.0
+2013-10-02,Government Shutdown Statement,Data/barackobamagovernmentshutdown.txt,2013-09-30,2013-10-06,44.0,50.0,7.0
+2013-10-21,Affordable Care Act Website Issues Address,Data/barackobamaaffordablecareactwebsiteproblems.txt,2013-10-21,2013-10-27,43.0,50.0,7.0
+2013-11-11,Veterans Day Address,Data/barackobamaveteransday2013.txt,2013-11-11,2013-11-17,41.0,52.0,7.0
+2013-11-14,Affordable Care Act Changes Press Conference,Data/barackobamaaffordablecareactchanges.txt,2013-11-11,2013-11-17,41.0,52.0,7.0
+2013-11-23,Iran Accord Statement,Data/barackobamairanaccordstatement.txt,2013-11-18,2013-11-24,40.0,53.0,7.0
+2013-12-05,"On the Passing of Nelson ""Madiba"" Mandela",Data/barackobamamandelapassing.txt,2013-12-02,2013-12-08,41.0,51.0,9.0
+2013-12-10,Address at the Public Memorial for Nelson Mandela,Data/barackobamanelsonmandelamemorial.txt,2013-12-09,2013-12-15,42.0,50.0,9.0
+2013-12-20,End of Year Press Conference,Data/barackobamafinal2013presser.txt,2013-12-16,2013-12-22,40.0,52.0,8.0
+2014-01-17,On Proposed Changes to US Intelligence Programs,Data/barackobamasignalsintelreview.txt,2014-01-13,2014-01-19,40.0,52.0,9.0
+2014-02-06,Speech at the 62nd National Prayer Breakfast,Data/barackobama2014prayerbreakfast.txt,2014-02-03,2014-02-09,41.0,51.0,8.0
+2014-03-26,Speech to European Youth in Belgium,Data/barackobamaeuropeanyouth.txt,2014-03-24,2014-03-30,43.0,52.0,5.0
+2014-04-10,Civil Rights Summit Keynote Speech,Data/barackobamaaustincivilrights.txt,2014-04-07,2014-04-13,43.0,51.0,6.0
+2014-04-17,Press Conference on Affordable Care Act and Ukraine,Data/barackobamapressconference04-17-14.txt,2014-04-14,2014-04-20,44.0,50.0,6.0
+2014-04-24,Joint Presser with Japan Prime Minister Shinzo Abe,Data/barackobamapmabejapanjointpresser.txt,2014-04-21,2014-04-27,44.0,50.0,5.0
+2014-04-27,Young Leaders Town Hall Malaysia,Data/barackobamaYSEALIMalaysia.txt,2014-04-21,2014-04-27,44.0,50.0,5.0
+2014-04-28,Joint Presser with Philippine President Aquino,Data/barackobamabenignoaquinojointpresser.txt,2014-04-28,2014-05-04,44.0,50.0,6.0
+2014-04-29,Fort Bonifacio Address,Data/barackobamafortbonifacio.txt,2014-04-28,2014-05-04,44.0,50.0,6.0
+2014-05-03,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2014.txt,2014-04-28,2014-05-04,44.0,50.0,6.0
+2014-05-21,On Misconduct Allegations at the VA,Data/barackobamavamisconductallegations.txt,2014-05-19,2014-05-25,43.0,52.0,5.0
+2014-05-27,Statement on Afghanistan,Data/barackobamastatementonafghanistan.txt,2014-05-26,2014-06-01,44.0,51.0,5.0
+2014-05-28,U.S. Military Academy Commencement Address,Data/barackobamawestpointcommencement2014.txt,2014-05-26,2014-06-01,44.0,51.0,5.0
+2014-05-30,Presser on VA Department Misconduct,Data/barackobamaveteransaffairsmisconduct.txt,2014-05-26,2014-06-01,44.0,51.0,5.0
+2014-06-04,Polish Freedom Day Anniversary Address,Data/barackobamafreedomdaypoland.txt,2014-06-02,2014-06-08,44.0,50.0,6.0
+2014-06-06,70th Anniversary of D-Day Address,Data/barackobamadday70.txt,2014-06-02,2014-06-08,44.0,50.0,6.0
+2014-06-30,Immigration Reform and Border Security,Data/barackobamaimmigrationbordersecurity.txt,2014-06-30,2014-07-06,43.0,52.0,5.0
+2014-07-18,On the Downing of Malaysian Airlines Flight 17,Data/barackobamaflightmh17.txt,2014-07-14,2014-07-20,43.0,51.0,6.0
+2014-07-21,SSG Ryan Pitts Medal of Honor Ceremony Speech,Data/barackobamaryanpittsmedalofhonor.txt,2014-07-21,2014-07-27,41.0,53.0,7.0
+2014-08-01,Presser on Executive Action and Foreign Policy,Data/barackobamaeconomyforeignpolicy.txt,2014-07-28,2014-08-03,42.0,54.0,5.0
+2014-08-07,On Air Strikes and Humanitarian Effort in Iraq,Data/barackobamairaqairstrikehumanitarianeffort.txt,2014-08-04,2014-08-10,42.0,52.0,6.0
+2014-08-09,Update on Air Strikes and Humanitarian Aid in Iraq,Data/barackobamairaqairstrikehumanitarianeffortupdate.txt,2014-08-04,2014-08-10,42.0,52.0,6.0
+2014-08-14,"On Iraq and Ferguson, Missouri Situation",Data/barackobamafergusonmissouri.txt,2014-08-11,2014-08-17,41.0,53.0,6.0
+2014-08-28,"Press Statement on the Economy, Iraq, and Ukraine",Data/barackobamairaqukraine.txt,2014-08-25,2014-08-31,41.0,53.0,7.0
+2014-09-03,Joint Presser with Toomas Ilves,Data/barackobamajointpressertoomasilves.txt,2014-09-01,2014-09-07,40.0,53.0,7.0
+2014-09-03,Address to the People of Estonia,Data/barackobamaestoniapeople.txt,2014-09-01,2014-09-07,40.0,53.0,7.0
+2014-09-10,Speech to the Nation on ISIL,Data/barackobamaisilspeechtonation.txt,2014-09-08,2014-09-14,41.0,54.0,5.0
+2014-09-16,Speech on Ebola Response at the CDC,Data/barackobamaebolacdc.txt,2014-09-15,2014-09-21,43.0,52.0,5.0
+2014-09-24,United Nations 69th Session General Assembly Speech,Data/barackobamaunitednations69.txt,2014-09-22,2014-09-28,42.0,52.0,6.0
+2014-09-24,United Nations Security Council Remarks,Data/barackobamaunitednationssecuritycouncil2014.txt,2014-09-22,2014-09-28,42.0,52.0,6.0
+2014-09-25,United Nations Meeting on Ebola Speech,Data/barackobamaunitednationsebola.txt,2014-09-22,2014-09-28,42.0,52.0,6.0
+2014-10-17,Speech On Signing Executive Order 13681 at the CFPB,Data/barackobamexecutiveorder13681acfpb.txt,2014-10-13,2014-10-19,41.0,54.0,6.0
+2014-10-28,Ebola Response Update Speech,Data/barackobamaebolaresponseupdate.txt,2014-10-27,2014-11-02,42.0,53.0,5.0
+2014-11-05,Midterm Elections Press Conference,Data/barackobamamidtermrepublicanvictorypresser.txt,2014-11-03,2014-11-09,40.0,54.0,5.0
+2014-11-14,Joint Press Conference with Daw Aung San Suu Kyi,Data/barackobamasuukyipresser.txt,2014-11-10,2014-11-16,42.0,52.0,6.0
+2014-11-14,Young Leaders Town Hall Myanmar/Burma,Data/barackobamaYSEALIMyanmar.txt,2014-11-10,2014-11-16,42.0,52.0,6.0
+2014-11-15,Queensland University Address,Data/barackobamaqueenslanduniversity.txt,2014-11-10,2014-11-16,42.0,52.0,6.0
+2014-11-20,National Immigration Policy Address,Data/barackobamaimmigrationnationalpolicy.txt,2014-11-17,2014-11-23,42.0,53.0,5.0
+2014-11-24,On Ferguson Grand Jury Decision,Data/barackobamafergusongrandjury.txt,2014-11-24,2014-11-30,43.0,52.0,5.0
+2014-12-02,NIH Ebola Vaccine Research Address,Data/barackobamaebolavaccineNIH.txt,2014-12-01,2014-12-07,43.0,52.0,5.0
+2014-12-17,Cuba Detente Policy Address,Data/barackobamacubapolicychanges.txt,2014-12-15,2014-12-21,45.0,51.0,5.0
+2014-12-19,End of Year Press Conference,Data/barackobamafinal2014presser.txt,2014-12-15,2014-12-21,45.0,51.0,5.0
+2015-01-09,American's College Promise Address,Data/barackobamacommunitycollegefreeplan.txt,2015-01-05,2015-01-11,46.0,48.0,7.0
+2015-01-12,Federal Trade Commission Address,Data/barackobamaftc2014.txt,2015-01-12,2015-01-18,46.0,49.0,5.0
+2015-01-13,National Cybersecurity Communication Center Speech,Data/barackobamanccic.txt,2015-01-12,2015-01-18,46.0,49.0,5.0
+2015-01-27,Speech to the People of India in New Delhi,Data/barackobamaindia2015.txt,2015-01-26,2015-02-01,47.0,48.0,5.0
+2015-02-05,Speech at the 63rd National Prayer Breakfast,Data/barackobama2015prayerbreakfast.txt,2015-02-02,2015-02-08,46.0,49.0,5.0
+2015-02-11,On Force Authorization Request Against ISIL,Data/barackobamaISILforceauthorization.txt,2015-02-09,2015-02-15,47.0,48.0,5.0
+2015-02-13,Stanford University Cybersecurity Summit Address,Data/barackobamastanfordcybersecurity.txt,2015-02-09,2015-02-15,47.0,48.0,5.0
+2015-02-18,Countering Violent Religious Extremism Summit,Data/barackobamaviolentreligiousextremism.txt,2015-02-16,2015-02-22,46.0,49.0,5.0
+2015-03-03,On Iran and Netanyahu's Speech to Congress,Data/barackobamairanpmnetanyahucongressspeech.txt,2015-03-02,2015-03-08,46.0,49.0,5.0
+2015-03-07,Selma March 50-Year Anniversary Address,Data/barackobamaselma50anniversarymarch.txt,2015-03-02,2015-03-08,46.0,49.0,5.0
+2015-03-10,Student Aid Bill of Rights Announcement,Data/barackobamastudentaidbillofrights.txt,2015-03-09,2015-03-15,47.0,48.0,5.0
+2015-03-30,Edward M. Kennedy Institute Dedication Speech,Data/barackobamatedkennedyinstitutededication.txt,2015-03-30,2015-04-05,47.0,48.0,5.0
+2015-04-02,Statement on Iran Nuclear Agreement,Data/barackobamairannuclearagreement.txt,2015-03-30,2015-04-05,47.0,48.0,5.0
+2015-04-09,Young Leaders Town Hall in Jamaica,Data/barackobamaYLAIJamaica.txt,2015-04-06,2015-04-12,48.0,48.0,4.0
+2015-04-10,Civil Society Forum Address in Panama,Data/barackobamacivilsocietyforum.txt,2015-04-06,2015-04-12,48.0,48.0,4.0
+2015-04-11,Press Conference Following Summit of the Americas,Data/barackobamapanamapostpresser.txt,2015-04-06,2015-04-12,48.0,48.0,4.0
+2015-04-11,Summit of the Americas First Plenary Session,Data/barackobamasummitamericasplenarysession.txt,2015-04-06,2015-04-12,48.0,48.0,4.0
+2015-04-23,On Hostages Warren Weinstein and Giovanni Lo Porto,Data/barackobamahostagedronedeaths.txt,2015-04-20,2015-04-26,45.0,49.0,6.0
+2015-04-25,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2015.txt,2015-04-20,2015-04-26,45.0,49.0,6.0
+2015-05-08,Transpacific Trade Pact Speech at Nike HQ,Data/barackobamatradenike.txt,2015-05-04,2015-05-10,47.0,48.0,5.0
+2015-05-22,National Jewish American Heritage Month Address,Data/barackobamaadasisraelcongregation.txt,2015-05-18,2015-05-24,46.0,49.0,5.0
+2015-06-01,Southeast Asian Youth Imitative Fellows Address,Data/barackobamaYSEALIWashingtonDC.txt,2015-06-01,2015-06-07,46.0,49.0,5.0
+2015-06-06,Eulogy for Beau Biden III,Data/barackobamabeaubideneulogy.txt,2015-06-01,2015-06-07,46.0,49.0,5.0
+2015-06-08,Post G7 Conference Presser,Data/barackobamaG7conference2015.txt,2015-06-08,2015-06-14,45.0,49.0,5.0
+2015-06-17,Loretta Lynch Investiture Ceremony Address,Data/barackobamalorettalynchinvestiture.txt,2015-06-15,2015-06-21,45.0,50.0,6.0
+2015-06-18,On the Charleston Emanuel AME Church Shooting,Data/barackobamasouthcarolinashooting.txt,2015-06-15,2015-06-21,45.0,50.0,6.0
+2015-06-19,U.S. Conference of Mayors Address,Data/barackobamamayorsconference2015.txt,2015-06-15,2015-06-21,45.0,50.0,6.0
+2015-06-24,Hostage Policy Review Statement,Data/barackobamahostagepolicyreview.txt,2015-06-22,2015-06-28,47.0,49.0,5.0
+2015-06-25,On the USSC Ruling on the Affordable Care Act,Data/barackobamaaffordablecareactUSSC.txt,2015-06-22,2015-06-28,47.0,49.0,5.0
+2015-06-26,Eulogy for Revered Clementa C. Pinckney,Data/barackobamaclementapinckneyeulogy.txt,2015-06-22,2015-06-28,47.0,49.0,5.0
+2015-07-06,Pentagon Address on Defeating the Islamic State,Data/barackobamaisilprogresspentagon.txt,2015-07-06,2015-07-12,46.0,49.0,5.0
+2015-07-13,Address at White House Aging Conference,Data/barackobamaagingconference.txt,2015-07-13,2015-07-19,46.0,48.0,6.0
+2015-07-14,Iran Nuclear Accord Agreement Announcement,Data/barackobamairannucleardealfinal.txt,2015-07-13,2015-07-19,46.0,48.0,6.0
+2015-07-14,NAACP Convention Address,Data/barackobamanaacp2015.txt,2015-07-13,2015-07-19,46.0,48.0,6.0
+2015-07-15,Post Iran Nuclear Accord Agreement Press Conference,Data/barackobamairannuclearaccordfinalpresser.txt,2015-07-13,2015-07-19,46.0,48.0,6.0
+2015-07-26,Kenya Civil Society Meeting,Data/barackobamakenyacivilsociety.txt,2015-07-20,2015-07-26,46.0,50.0,5.0
+2015-07-26,Address to the People of Kenya,Data/barackobamakenyapeople.txt,2015-07-20,2015-07-26,46.0,50.0,5.0
+2015-07-28,Address to African Continent Representatives,Data/barackobamaafricancontinentreps.txt,2015-07-27,2015-08-02,46.0,49.0,5.0
+2015-08-03,Clean Power Plan Announcement,Data/barackobamacleanpowerplan.txt,2015-08-03,2015-08-09,46.0,50.0,4.0
+2015-08-05,Iran Nuclear Deal Address at American University,Data/barackobamairanamericanuniversity.txt,2015-08-03,2015-08-09,46.0,50.0,4.0
+2015-08-27,On Hurricane Katrina & 10-Year Aftermath,Data/barackobamakatrinahurricane10years.txt,2015-08-24,2015-08-30,46.0,50.0,4.0
+2015-09-11,Worldwide Troop Talk at Fort Meade,Data/barackobamaworldwidetrooptalk.txt,2015-09-07,2015-09-13,46.0,49.0,5.0
+2015-09-19,Congressional Black Caucus Awards Dinner Address,Data/barackobamacongressionalblackcaucus2015.txt,2015-09-14,2015-09-20,46.0,51.0,4.0
+2015-09-23,Pope Francis White House Welcome Address,Data/barackobamapopefranciswhitehousewelcome.txt,2015-09-21,2015-09-27,48.0,49.0,3.0
+2015-09-25,Joint Press Conference with President Xi Jinping,Data/barackobamaxijinpingrosegardenpresser2015.txt,2015-09-21,2015-09-27,48.0,49.0,3.0
+2015-09-25,Gen. Martin Dempsey Retirement Ceremony Address,Data/barackobamamartindempseyretirement.txt,2015-09-21,2015-09-27,48.0,49.0,3.0
+2015-09-28,United Nations 70th Session General Assembly Speech,Data/barackobamaunitednations70.txt,2015-09-28,2015-10-04,47.0,49.0,5.0
+2015-10-01,On Umpqua Community College Mass Shooting,Data/barackobamaumpquashootings.txt,2015-09-28,2015-10-04,47.0,49.0,5.0
+2015-10-02,Presser on Education Secretary Change,Data/barackobamapressconference10-02-15.txt,2015-09-28,2015-10-04,47.0,49.0,5.0
+2015-10-15,Afghanistan Statement,Data/barackobamaafghanistanstatement.txt,2015-10-12,2015-10-18,46.0,50.0,4.0
+2015-10-21,Community Forum Address on Prescription Drug Abuse,Data/barackobamawestvirginiacommunityforum.txt,2015-10-19,2015-10-25,46.0,50.0,4.0
+2015-11-13,Statement on the Paris Terrorist Attacks,Data/barackobamaparisterrorattacks.txt,2015-11-09,2015-11-15,49.0,47.0,4.0
+2015-11-13,Message to the People of Burundi,Data/barackobamaburundipeoplemessage.txt,2015-11-09,2015-11-15,49.0,47.0,4.0
+2015-11-16,"G-20 Press Conference in Antalya, Turkey",Data/barackobamaturkeypresser.txt,2015-11-16,2015-11-22,44.0,52.0,4.0
+2015-11-21,ASEAN Business and Investment Summit Address,Data/barackobamaASEAN2015.txt,2015-11-16,2015-11-22,44.0,52.0,4.0
+2015-11-22,Malaysia Press Conference,Data/barackobamamalaysiapresser2015.txt,2015-11-16,2015-11-22,44.0,52.0,4.0
+2015-11-24,Joint Press Conference with Francois Hollande,Data/barackobamafrancoishollandpresser.txt,2015-11-23,2015-11-29,46.0,49.0,5.0
+2015-11-30,"COP21, Session 1 Address",Data/barackobamacop21.txt,2015-11-30,2015-12-06,47.0,49.0,4.0
+2015-12-01,Paris Press Conference,Data/barackobamaparispressconference.txt,2015-11-30,2015-12-06,47.0,49.0,4.0
+2015-12-06,On Foreign and Domestic Strategies Against Terrorism,Data/barackobamaforeigndomesticterrorismresponseovaloffice.txt,2015-11-30,2015-12-06,47.0,49.0,4.0
+2015-12-09,113th Amendment 150-Year Anniversary Speech,Data/barackobama13thamendment150anniversary.txt,2015-12-07,2015-12-13,45.0,50.0,5.0
+2015-12-10,Every Child Succeeds Act Signing Address,Data/barackobamaeverystudentsucceeds.txt,2015-12-07,2015-12-13,45.0,50.0,5.0
+2015-12-12,Statement on Paris Climate Agreement,Data/barackobamaparisclimateagreement.txt,2015-12-07,2015-12-13,45.0,50.0,5.0
+2015-12-14,Counter ISIL Campaign Update,Data/barackobamacounterISILupdate12-14-15.txt,2015-12-14,2015-12-20,45.0,51.0,5.0
+2015-12-15,Naturalization Ceremony Speech at the Natl. Archives,Data/barackobamanaturalizationnationalarchives.txt,2015-12-14,2015-12-20,45.0,51.0,5.0
+2015-12-17,Address at the National Counterterrorism Center,Data/barackobamanationalcounterterrorismcenter.txt,2015-12-14,2015-12-20,45.0,51.0,5.0
+2015-12-18,End of Year Press Conference,Data/barackobamafinal2015presser.txt,2015-12-14,2015-12-20,45.0,51.0,5.0
+2016-01-01,Weekly Address on Making Children's Safety,Data/barackobamaweekly1-1-16.txt,2015-12-28,2016-01-03,45.0,52.0,4.0
+2016-01-05,Speech Detailing Steps to Reduce Gun Violence,Data/barackobamagunviolencereduction.txt,2016-01-04,2016-01-10,47.0,49.0,4.0
+2016-01-07,Remarks at CNN Town Hall on Guns in America,Data/barackobamagunsinamericancnntownhall.txt,2016-01-04,2016-01-10,47.0,49.0,4.0
+2016-01-17,On Lifting Iran Sanctions and U.S. Detainee Releases,Data/barackobamairansanctionslifted.txt,2016-01-11,2016-01-17,48.0,47.0,5.0
+2016-01-27,Righteous Among Nations Award Ceremony Address,Data/barackobamarighteousamongnationsceremony.txt,2016-01-25,2016-01-31,48.0,48.0,4.0
+2016-02-03,Islamic Society of Baltimore Speech,Data/barackobamaislamicsocietybaltimore.txt,2016-02-01,2016-02-07,47.0,50.0,3.0
+2016-02-04,Honoring Golden State Warriors 2015 NBA Champs,Data/barackobamagoldenstatewarriors.txt,2016-02-01,2016-02-07,47.0,50.0,3.0
+2016-02-04,Speech at the 64th National Prayer Breakfast,Data/barackobama2016prayerbreakfast.txt,2016-02-01,2016-02-07,47.0,50.0,3.0
+2016-02-10,Address to the Illinois General Assembly,Data/barackobamailliinoisgeneralassembly.txt,2016-02-08,2016-02-14,48.0,48.0,4.0
+2016-02-13,Address on the Passing of USSC Justice Antonin Scalia,Data/barackobamaantoninscaliapassing.txt,2016-02-08,2016-02-14,48.0,48.0,4.0
+2016-02-16,U.S-ASEAN Summit Press Conference,Data/barackobamaASEANpresser.txt,2016-02-15,2016-02-21,48.0,48.0,4.0
+2016-02-20,Weekly Address - A New Chapter with Cuba,Data/barackobamaweeklyaddresscubanewchapter.txt,2016-02-15,2016-02-21,48.0,48.0,4.0
+2016-02-23,On Closing Guantanamo Bay Detention Facility,Data/barackobamaguantanamobayclosing.txt,2016-02-22,2016-02-28,48.0,47.0,5.0
+2016-02-25,Update on Progress to Degrade and Destroy ISIL,Data/barackobamaISILupdate.txt,2016-02-22,2016-02-28,48.0,47.0,5.0
+2016-02-26,Recovery and Reinvestment Act Seventh Anniversary,Data/barackobamarecoveryandreinvestmentact.txt,2016-02-22,2016-02-28,48.0,47.0,5.0
+2016-03-11,South by Southwest Interactive Remarks,Data/barackobamasxsw.txt,2016-03-07,2016-03-13,51.0,45.0,4.0
+2016-03-16,Merrick Garland USSC Nomination Address,Data/barackobamamerrickgarlandnomination.txt,2016-03-14,2016-03-20,50.0,46.0,4.0
+2016-03-21,Joint Press Conference with President Raul Castro,Data/barackobamaraulcastropresser.txt,2016-03-21,2016-03-27,53.0,44.0,3.0
+2016-03-21,Address and Q&A at a Cuba Entrepreneurs Event,Data/barackobamacubaentrepreneurs.txt,2016-03-21,2016-03-27,53.0,44.0,3.0
+2016-03-22,Address to the People of Cuba,Data/barackobamacubapeoplespeech.txt,2016-03-21,2016-03-27,53.0,44.0,3.0
+2016-03-23,Young Leaders Town Hall in Argentina,Data/barackobamaYLAIArgentina.txt,2016-03-21,2016-03-27,53.0,44.0,3.0
+2016-03-26,Discussion with Davis Simon on The Wire,Data/barackobamadavidsimonthewire.txt,2016-03-21,2016-03-27,53.0,44.0,3.0
+2016-04-01,Nuclear Security Summit Press Conference,Data/barackobamanuclearsummitpresser.txt,2016-03-28,2016-04-03,51.0,45.0,4.0
+2016-04-07,Conversation at the University. of Chicago Law School,Data/barackobamausscconversation.txt,2016-04-04,2016-04-10,51.0,45.0,4.0
+2016-04-21,Press Conference in Saudi Arabia,Data/barackobamasaudiarabiapresser.txt,2016-04-18,2016-04-24,51.0,45.0,4.0
+2016-04-23,Young Leaders Town Hall in the United Kingdom,Data/barackobamalondontownhall.txt,2016-04-18,2016-04-24,51.0,45.0,4.0
+2016-04-25,Address in Hannover to the Peoples of Europe,Data/barackobamaeuropehanover.txt,2016-04-25,2016-05-01,51.0,46.0,4.0
+2016-04-30,White House Correspondents Dinner Speech,Data/barackobamawhitehousecorrespondentsdinner2016.txt,2016-04-25,2016-05-01,51.0,46.0,4.0
+2016-05-04,"Flint, Michigan Community Speech",Data/barackobamaflintmichigancommunity.txt,2016-05-02,2016-05-08,52.0,44.0,4.0
+2016-05-07,Howard University Commencement Address,Data/barackobamahowarduniversitycommencement.txt,2016-05-02,2016-05-08,52.0,44.0,4.0
+2016-05-14,Weekly Address on Opioid Addiction with Macklemore,Data/barackobamaweeklyaddictionmacklemore.txt,2016-05-09,2016-05-15,51.0,45.0,4.0
+2016-05-24,Address to the People of Vietnam,Data/barackobamanationalconventioncentervietnam.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-05-24,Address on Entrepreneurship at Dreamplex in Vietnam,Data/barackobamavietnambusinessdevelopment.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-05-25,Press Conference with Prime Minister Shinzo Abe,Data/barackobamashinzoabepresser.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-05-25,Young Leaders Town Hall in Vietnam,Data/barackobamaYSEALIVietnam.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-05-26,Post G7 Conference Presser,Data/barackobamajapanpostG7presser.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-05-27,Address at the Hiroshima Peace Memorial,Data/barackobamahiroshimaspeech.txt,2016-05-23,2016-05-29,52.0,44.0,4.0
+2016-06-02,U.S. Air Force Academy Commencement Address,Data/barackobamaairforceacademycommencement.txt,2016-05-30,2016-06-05,51.0,44.0,5.0
+2016-06-09,Presidential Endorsement of Hillary Clinton,Data/barackobamahillaryclintonpresidentialendorsement.txt,2016-06-06,2016-06-12,53.0,43.0,4.0
+2016-06-12,"Statement on the Shootings in Orlando, Florida",Data/barackobamaorlandoshootings.txt,2016-06-06,2016-06-12,53.0,43.0,4.0
+2016-06-14,Counter-ISIL Meeting Update Briefing,Data/barackobamaISILcounter.txt,2016-06-13,2016-06-19,53.0,44.0,4.0
+2016-06-14,United State of Women White House Summit Address,Data/barackobamaunitedstateofwomensummit.txt,2016-06-13,2016-06-19,53.0,44.0,4.0
+2016-06-16,"Address to the Community of Orlando, Florida",Data/barackobamaorlandocommunitystmt.txt,2016-06-13,2016-06-19,53.0,44.0,4.0
+2016-06-23,Remarks on USSC Ruling in U.S. vs. Texas,Data/barackobamausvstexasimmigration.txt,2016-06-20,2016-06-26,50.0,46.0,5.0
+2016-06-29,Speech to the Parliament of Canada,Data/barackobamaparliamentofcanadaspeech.txt,2016-06-27,2016-07-03,51.0,45.0,5.0
+2016-07-09,Press Conference Following 2016 NATO Summit,Data/barackobamapostnatopresser2016.txt,2016-07-04,2016-07-10,51.0,45.0,4.0
+2016-07-12,Dallas Police Memorial Address,Data/barackobamadallaspolicememorial.txt,2016-07-11,2016-07-17,49.0,46.0,5.0
+2016-08-04,Post Security Council Pentagon Press Conference,Data/barackobamaisilpressconference.txt,2016-08-01,2016-08-07,52.0,45.0,4.0
+2016-08-23,Baton Rouge Flooding Press Statement,Data/barackobamabatonrougeflooding.txt,2016-08-22,2016-08-28,51.0,45.0,5.0
+2016-09-05,Press Conference Following G-20 Summit,Data/barackobamag20chinapresser.txt,2016-09-05,2016-09-11,51.0,45.0,4.0
+2016-09-06,Address to the People of Laos,Data/barackobamalaospeople.txt,2016-09-05,2016-09-11,51.0,45.0,4.0
+2016-09-06,Post ASEAN Press Conference,Data/barackobamapostASEANpresser.txt,2016-09-05,2016-09-11,51.0,45.0,4.0
+2016-09-11,9/11 Memorial Address,Data/barackobama91115years.txt,2016-09-05,2016-09-11,51.0,45.0,4.0
+2016-09-19,On the Explosions in New York and New Jersey,Data/barackobamanewyorkandnewjerseyexplosions.txt,2016-09-19,2016-09-25,53.0,43.0,4.0
+2016-09-20,United Nations 71st Session General Assembly Speech,Data/barackobamaunitednations71.txt,2016-09-19,2016-09-25,53.0,43.0,4.0
+2016-09-24,National African-American History Museum Dedication,Data/barackobamaafricanamericanhistorymuseum.txt,2016-09-19,2016-09-25,53.0,43.0,4.0
+2016-09-30,Shimon Peres Memorial Service Address,Data/barackobamashimonperesmemorial.txt,2016-09-26,2016-10-02,53.0,44.0,4.0
+2016-11-09,Remarks on the U.S. Presidential Election Outcome,Data/barackobama2016presidentialelectionoutcome.txt,2016-11-07,2016-11-13,57.0,41.0,3.0
+2016-11-10,First Meeting with President-Elect Donald Trump,Data/barackobamadonaldtrumpmeeting.txt,2016-11-07,2016-11-13,57.0,41.0,3.0
+2016-11-14,Post Presidential Election Press Conference,Data/barackobamapostelectionpresser.txt,2016-11-14,2016-11-20,56.0,41.0,3.0
+2016-11-16,Address to the People of Greece,Data/barackobamagreecepeople.txt,2016-11-14,2016-11-20,56.0,41.0,3.0
+2016-11-17,Joint Presser with Chancellor Angela Merkel,Data/barackobamaangelamerkelpresser2016.txt,2016-11-14,2016-11-20,56.0,41.0,3.0
+2016-11-20,Press Conference in Peru,Data/barackobamaperupressconference.txt,2016-11-14,2016-11-20,56.0,41.0,3.0
+2016-11-20,Young Leaders of the Americas Initiative Speech/Q&A,Data/barackobamaYLAI2016.txt,2016-11-14,2016-11-20,56.0,41.0,3.0
+2016-12-04,Kennedy Center Honors Reception Address,Data/barackobamakennedycenter2016.txt,2016-11-28,2016-12-04,54.0,43.0,3.0
+2016-12-04,Farewell Address to the U.S. Armed Forces,Data/barackobamafarwellarmedforces.txt,2016-11-28,2016-12-04,54.0,43.0,3.0
+2016-12-06,On the Administration's Approach to Counterterrorism,Data/barackobamacounterterrorismapproach2016.txt,2016-12-05,2016-12-11,57.0,40.0,3.0
+2016-12-16,Final Presidential Press Conference of Year,Data/barackobamafinalpresidentialpressconference.txt,2016-12-12,2016-12-18,56.0,40.0,4.0
+2016-12-27,Address at Pearl Harbor,Data/barackobamapearlharbor.txt,2016-12-26,2017-01-01,55.0,40.0,4.0
+2017-01-06,VOX Live Interview at the Blair House,Data/barackobamaVOXinterview.txt,2017-01-02,2017-01-08,55.0,42.0,3.0
+2017-01-10,Presidential Farewell Address,Data/barackobamafarewelladdress.txt,2017-01-09,2017-01-15,57.0,39.0,4.0
+2017-01-12,Joe Biden Medal of Freedom Presentation Address,Data/barackobamajoebidenmedaloffreedom.txt,2017-01-09,2017-01-15,57.0,39.0,4.0
+2017-01-14,Final Presidential Weekly Address,Data/barackobamafinalweeklyaddress.txt,2017-01-09,2017-01-15,57.0,39.0,4.0
+2017-01-16,MLB World Series Champion Chicago Cubs WH Visit,Data/barackobamachicagocubsMLBchamps.txt,2017-01-16,2017-01-19,59.0,37.0,4.0
+2017-01-18,Final Presidential Press Conference,Data/barackobamafinalpressconference.txt,2017-01-16,2017-01-19,59.0,37.0,4.0
+2017-01-20,Farewell Remarks at Andrews to Staff and Supporters,Data/barackobamafarewelltostaffandrewsaft.txt,2017-01-16,2017-01-19,59.0,37.0,4.0
